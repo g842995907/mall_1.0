@@ -1,0 +1,1944 @@
+INFO 2018-06-20 15:59:21,488 basehttp 124 "GET /image_codes/11/ HTTP/1.1" 200 3443
+INFO 2018-06-20 16:12:49,361 basehttp 124 "GET /image_codes/b0c3242c-0463-43b0-aaf6-72e80386c8ca/ HTTP/1.1" 200 3358
+INFO 2018-06-20 16:13:11,137 basehttp 124 "GET /image_codes/f6f5d16b-2a64-4c96-b005-8927577ea4d5/ HTTP/1.1" 200 3717
+INFO 2018-06-20 16:13:17,057 basehttp 124 "GET /image_codes/1efbde15-c6d7-4a45-9ba7-60903e472390/ HTTP/1.1" 200 3355
+INFO 2018-06-20 16:13:20,134 basehttp 124 "GET /image_codes/babb959c-430a-46e4-9b0e-d6f326fc7b59/ HTTP/1.1" 200 3043
+INFO 2018-06-20 16:13:20,796 basehttp 124 "GET /image_codes/11734fca-7b65-4ccb-bedf-b2c64e6c8e75/ HTTP/1.1" 200 2722
+INFO 2018-06-20 16:13:21,352 basehttp 124 "GET /image_codes/19906059-9514-4cf4-b23f-8db42ce6f70a/ HTTP/1.1" 200 3343
+INFO 2018-06-20 17:22:57,314 basehttp 124 "GET /image_codes/624c97ac-5755-4c0d-852a-242ab278d8dc/ HTTP/1.1" 200 3457
+INFO 2018-06-20 17:23:46,939 basehttp 124 "GET /image_codes/213dfd7f-f6e9-4157-afee-d6a901c73754/ HTTP/1.1" 200 2982
+INFO 2018-06-20 17:28:25,533 basehttp 124 "GET /image_codes/a7f6ecbd-92be-493b-a6f1-52209a10037d/ HTTP/1.1" 200 3374
+INFO 2018-06-20 17:29:21,751 basehttp 124 "GET /image_codes/ae98428a-1493-497b-b252-8b6766671f60/ HTTP/1.1" 200 3141
+INFO 2018-06-20 17:29:26,473 basehttp 124 "GET /image_codes/29093564-2f45-4dcd-b026-9ebc9ce6b9a7/ HTTP/1.1" 200 3140
+WARNING 2018-06-20 17:29:40,890 basehttp 124 "GET /sms_codes/18516952650/?text=dsdx&image_code_id=29093564-2f45-4dcd-b026-9ebc9ce6b9a7 HTTP/1.1" 400 46
+INFO 2018-06-20 17:30:15,292 basehttp 124 "GET /image_codes/5a68d15f-0a35-445c-880d-9955120b7ba8/ HTTP/1.1" 200 3279
+WARNING 2018-06-20 17:30:25,074 basehttp 124 "GET /sms_codes/18516952650/?text=dwdf&image_code_id=5a68d15f-0a35-445c-880d-9955120b7ba8 HTTP/1.1" 400 46
+INFO 2018-06-20 17:47:29,143 basehttp 124 "GET /image_codes/e7f69cc5-eb9b-43b5-9f61-77469a4db1c3/ HTTP/1.1" 200 3479
+WARNING 2018-06-20 17:58:25,915 basehttp 124 "GET /sms_codes/18516952650/?text=acdx&image_code_id=e7f69cc5-eb9b-43b5-9f61-77469a4db1c3 HTTP/1.1" 400 46
+INFO 2018-06-20 17:58:25,956 basehttp 124 "GET /image_codes/b3749c47-487c-4aad-b80a-11187c8b984e/ HTTP/1.1" 200 3290
+INFO 2018-06-20 17:58:40,520 views 77 发送验证码短信[正常][ mobile: 18516952650 ]
+INFO 2018-06-20 17:58:40,521 basehttp 124 "GET /sms_codes/18516952650/?text=ydwz&image_code_id=b3749c47-487c-4aad-b80a-11187c8b984e HTTP/1.1" 200 16
+INFO 2018-06-20 18:43:47,673 basehttp 124 "GET /image_codes/1498aeb1-0ca9-4aff-bfec-10dc14646714/ HTTP/1.1" 200 3115
+INFO 2018-06-20 18:43:52,289 basehttp 124 "GET /sms_codes/18516952650/?text=oxq9&image_code_id=1498aeb1-0ca9-4aff-bfec-10dc14646714 HTTP/1.1" 200 16
+INFO 2018-06-20 18:43:52,609 tasks 18 发送验证码短信[正常][ mobile: 18516952650 ]
+INFO 2018-06-20 20:25:45,324 basehttp 124 "GET /image_codes/53629def-00c5-4009-b531-41425a728e10/ HTTP/1.1" 200 3322
+INFO 2018-06-20 20:26:07,402 basehttp 124 "GET /sms_codes/18511111111/?text=ayrd&image_code_id=53629def-00c5-4009-b531-41425a728e10 HTTP/1.1" 200 16
+WARNING 2018-06-20 20:26:07,710 tasks 20 发送验证码短信[失败][ mobile: 18511111111 ]
+INFO 2018-06-20 20:27:16,556 basehttp 124 "GET /image_codes/90e1feb1-2ebd-4f70-b837-c4c30aa03fbb/ HTTP/1.1" 200 3378
+INFO 2018-06-20 20:27:26,432 basehttp 124 "GET /image_codes/86dcb918-2118-42e9-b87c-2b9755188375/ HTTP/1.1" 200 3185
+INFO 2018-06-20 20:27:32,864 basehttp 124 "GET /image_codes/b5e6d248-2a68-4562-88ee-7976c8a75998/ HTTP/1.1" 200 3455
+INFO 2018-06-20 20:27:46,801 basehttp 124 "GET /sms_codes/18511111111/?text=qh8w&image_code_id=b5e6d248-2a68-4562-88ee-7976c8a75998 HTTP/1.1" 200 16
+WARNING 2018-06-20 20:27:47,033 tasks 20 发送验证码短信[失败][ mobile: 18511111111 ]
+INFO 2018-06-20 20:28:07,650 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2018-06-20 20:28:07,810 basehttp 124 "POST /users/ HTTP/1.1" 201 51
+INFO 2018-06-20 21:50:18,353 basehttp 124 "GET /image_codes/f53442b8-9da5-4c97-9109-afd47bea2e31/ HTTP/1.1" 200 3409
+INFO 2018-06-21 14:32:05,700 basehttp 124 "GET /image_codes/51414b36-0a31-422d-b210-f1ca2e2ee048/ HTTP/1.1" 200 3699
+INFO 2018-06-21 14:32:08,100 basehttp 124 "GET /usernames/python/count/ HTTP/1.1" 200 31
+INFO 2018-06-21 14:32:12,218 basehttp 124 "GET /mobiles/18511111111/count/ HTTP/1.1" 200 34
+INFO 2018-06-22 16:02:38,392 basehttp 124 "GET /image_codes/f53115f5-405c-4f27-8f86-b13691677b59/ HTTP/1.1" 200 3473
+INFO 2018-06-22 16:03:28,760 basehttp 124 "GET /usernames/python/count/ HTTP/1.1" 200 31
+INFO 2018-06-22 16:03:32,845 basehttp 124 "GET /usernames/python1/count/ HTTP/1.1" 200 32
+INFO 2018-06-22 16:03:39,378 basehttp 124 "GET /mobiles/18522222222/count/ HTTP/1.1" 200 34
+INFO 2018-06-22 16:03:42,360 basehttp 124 "GET /mobiles/18522222222/count/ HTTP/1.1" 200 34
+INFO 2018-06-22 16:03:42,445 basehttp 124 "GET /sms_codes/18522222222/?text=iznw&image_code_id=f53115f5-405c-4f27-8f86-b13691677b59 HTTP/1.1" 200 16
+INFO 2018-06-22 16:04:03,360 basehttp 124 "OPTIONS /users/ HTTP/1.1" 200 0
+INFO 2018-06-22 16:04:03,399 basehttp 124 "GET /usernames/python1/count/ HTTP/1.1" 200 32
+INFO 2018-06-22 16:04:03,406 basehttp 124 "GET /mobiles/18522222222/count/ HTTP/1.1" 200 34
+INFO 2018-06-22 16:04:03,507 basehttp 124 "POST /users/ HTTP/1.1" 201 227
+INFO 2018-06-22 16:37:57,316 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-06-22 16:37:57,401 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2018-06-22 16:38:23,915 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 207
+ERROR 2018-06-22 18:19:33,616 exception 135 Internal Server Error: /oauth/qq/authorization/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/views.py", line 21, in get
+    oauth_qq = OAuthQQ(state=next)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/utils.py", line 10, in __init__
+    self.client_id = client_id if client_id else settings.QQ_CLIENT_ID
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/conf/__init__.py", line 57, in __getattr__
+    val = getattr(self._wrapped, name)
+AttributeError: 'Settings' object has no attribute 'QQ_CLIENT_ID'
+ERROR 2018-06-22 18:19:33,685 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 500 17635
+ERROR 2018-06-22 18:19:36,020 exception 135 Internal Server Error: /oauth/qq/authorization/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/views.py", line 21, in get
+    oauth_qq = OAuthQQ(state=next)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/utils.py", line 10, in __init__
+    self.client_id = client_id if client_id else settings.QQ_CLIENT_ID
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/conf/__init__.py", line 57, in __getattr__
+    val = getattr(self._wrapped, name)
+AttributeError: 'Settings' object has no attribute 'QQ_CLIENT_ID'
+ERROR 2018-06-22 18:19:36,041 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 500 17635
+INFO 2018-06-22 18:20:16,972 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+INFO 2018-06-22 21:56:19,187 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+ERROR 2018-06-22 21:56:33,776 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/views.py", line 49, in get
+    openid = oauth_qq.get_openid(access_token)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/utils.py", line 71, in get_openid
+    url = 'https://graph.qq.com/oauth2.0/me?access_token=' + access_token
+TypeError: must be str, not list
+ERROR 2018-06-22 21:56:33,900 basehttp 124 "GET /oauth/qq/user/?code=476824448E6965DD980CF19291B8F859 HTTP/1.1" 500 17516
+INFO 2018-06-22 21:58:03,059 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+ERROR 2018-06-22 21:58:14,596 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/views.py", line 49, in get
+    openid = oauth_qq.get_openid(access_token)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/utils.py", line 71, in get_openid
+    url = 'https://graph.qq.com/oauth2.0/me?access_token=' + access_token
+TypeError: must be str, not list
+ERROR 2018-06-22 21:58:14,702 basehttp 124 "GET /oauth/qq/user/?code=60D24D118F1D7BD424C2AF7510819D8F HTTP/1.1" 500 17516
+INFO 2018-06-22 21:58:37,926 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+INFO 2018-06-22 21:58:46,627 basehttp 124 "GET /oauth/qq/user/?code=017511BB26CB9F6D6ED34E8B8AB0D101 HTTP/1.1" 200 190
+INFO 2018-06-22 21:58:46,697 basehttp 124 "GET /image_codes/269aa30b-3314-41d7-b258-d8645fb86cc9/ HTTP/1.1" 200 3340
+ERROR 2018-06-22 22:34:03,038 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/views.py", line 49, in get
+    access_token = oauth_qq.get_access_token(code)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/utils.py", line 67, in get_access_token
+    return access_token[0]
+TypeError: 'NoneType' object is not subscriptable
+ERROR 2018-06-22 22:34:03,149 basehttp 124 "GET /oauth/qq/user/?code=017511BB26CB9F6D6ED34E8B8AB0D101 HTTP/1.1" 500 17517
+INFO 2018-06-22 22:34:21,736 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+INFO 2018-06-22 22:34:33,500 basehttp 124 "GET /oauth/qq/user/?code=97AC6ABCAD2AA574195C6CDC25FC0631 HTTP/1.1" 200 190
+INFO 2018-06-22 22:34:33,536 basehttp 124 "GET /image_codes/26ebe860-3527-4bd8-b7e4-b3a4d3b911e6/ HTTP/1.1" 200 3279
+INFO 2018-06-22 22:34:50,374 basehttp 124 "GET /sms_codes/18511111111/?text=fh7p&image_code_id=26ebe860-3527-4bd8-b7e4-b3a4d3b911e6 HTTP/1.1" 200 16
+INFO 2018-06-22 22:35:02,880 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+INFO 2018-06-22 22:35:02,962 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 201 225
+INFO 2018-06-22 22:35:37,300 basehttp 124 "GET /oauth/qq/authorization/?next=/ HTTP/1.1" 200 175
+INFO 2018-06-22 22:35:54,288 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_site.html HTTP/1.1" 200 196
+INFO 2018-06-22 22:36:05,931 basehttp 124 "GET /oauth/qq/user/?code=174B7B3178766ACB6E8F89C7E94C8E1B HTTP/1.1" 200 207
+INFO 2018-06-23 17:42:51,929 basehttp 124 "GET /oauth/qq/authorization/?next=/user_center_info.html HTTP/1.1" 200 196
+INFO 2018-06-23 17:43:38,512 basehttp 124 "GET /oauth/qq/user/?code=2B646F09AFCAC808C4071E6EB1CC7CF0 HTTP/1.1" 200 190
+INFO 2018-06-23 17:43:38,559 basehttp 124 "GET /image_codes/f253d781-5788-4b7e-b109-b549e2c10373/ HTTP/1.1" 200 2760
+INFO 2018-06-23 17:43:49,889 basehttp 124 "GET /sms_codes/18516952650/?text=zdp9&image_code_id=f253d781-5788-4b7e-b109-b549e2c10373 HTTP/1.1" 200 16
+INFO 2018-06-23 17:44:10,831 basehttp 124 "OPTIONS /oauth/qq/user/ HTTP/1.1" 200 0
+INFO 2018-06-23 17:44:10,913 basehttp 124 "POST /oauth/qq/user/ HTTP/1.1" 201 236
+INFO 2018-06-24 14:42:53,508 basehttp 124 "GET /image_codes/ea36280c-ba0b-4928-ab66-5ecffab9dd18/ HTTP/1.1" 200 3165
+INFO 2018-06-24 15:14:30,067 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2018-06-24 15:14:30,172 basehttp 124 "GET /user/ HTTP/1.1" 401 38
+WARNING 2018-06-24 15:22:13,248 basehttp 124 "GET /user/ HTTP/1.1" 401 38
+INFO 2018-06-24 15:22:23,553 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-06-24 15:22:23,618 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2018-06-24 15:22:23,816 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+INFO 2018-06-24 15:24:57,015 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-06-24 15:24:57,196 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+ERROR 2018-06-24 15:27:33,602 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/views.py", line 49, in get
+    access_token = oauth_qq.get_access_token(code)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/utils.py", line 67, in get_access_token
+    return access_token[0]
+TypeError: 'NoneType' object is not subscriptable
+ERROR 2018-06-24 15:27:33,755 basehttp 124 "GET /oauth/qq/user/?code=1318BC4FC7AAFEF268E001EBC060B350 HTTP/1.1" 500 17517
+INFO 2018-06-24 15:38:19,400 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-06-24 15:38:19,481 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 207
+INFO 2018-06-24 15:38:21,295 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-06-24 15:38:21,410 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+INFO 2018-06-24 16:34:49,499 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-06-24 16:34:49,549 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+WARNING 2018-06-24 16:35:11,906 tasks 20 发送验证码短信[失败][ mobile: 18522222222 ]
+WARNING 2018-06-24 16:35:11,925 tasks 20 发送验证码短信[失败][ mobile: 18511111111 ]
+WARNING 2018-06-24 16:35:11,971 tasks 20 发送验证码短信[失败][ mobile: 18516952650 ]
+INFO 2018-06-24 16:35:55,791 basehttp 124 "GET /user/ HTTP/1.1" 200 83
+INFO 2018-06-24 16:36:02,395 basehttp 124 "OPTIONS /email/ HTTP/1.1" 200 0
+INFO 2018-06-24 16:36:02,500 basehttp 124 "PUT /email/ HTTP/1.1" 200 38
+INFO 2018-06-24 17:10:10,662 basehttp 124 "GET /emails/verification/?token=eyJhbGciOiJIUzI1NiIsImlhdCI6MTUyOTgyOTM2MiwiZXhwIjoxNTI5OTE1NzYyfQ.eyJ1c2VyX2lkIjoxLCJlbWFpbCI6ImtvbmdkZWhhaUBpdGNhc3QuY24ifQ.c9eYsGc7IkaiwUc_ylifgLSWYI5ORD1bPaxwPrNBk74 HTTP/1.1" 200 16
+INFO 2018-06-24 17:12:26,111 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-06-24 17:12:26,188 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-06-24 17:12:28,502 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-06-24 17:12:28,616 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-06-24 18:40:16,963 basehttp 124 "OPTIONS /users/1/addresses/ HTTP/1.1" 200 0
+WARNING 2018-06-24 18:40:17,014 base 152 Not Found: /users/1/addresses/
+WARNING 2018-06-24 18:40:17,015 basehttp 124 "GET /users/1/addresses/ HTTP/1.1" 404 4832
+INFO 2018-06-24 18:40:17,032 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-06-24 18:40:28,093 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+ERROR 2018-06-24 18:41:09,932 exception 135 Internal Server Error: /areas/130000/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/viewsets.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework_extensions/cache/decorators.py", line 48, in inner
+    kwargs=kwargs,
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework_extensions/cache/decorators.py", line 67, in process_cache_response
+    response = view_method(view_instance, request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework_extensions/cache/mixins.py", line 22, in retrieve
+    return super(RetrieveCacheResponseMixin, self).retrieve(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/mixins.py", line 58, in retrieve
+    return Response(serializer.data)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 560, in data
+    ret = super(Serializer, self).data
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 510, in to_representation
+    fields = self._readable_fields
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 376, in _readable_fields
+    field for field in self.fields.values()
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 1020, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 1097, in get_field_names
+    serializer_class=self.__class__.__name__
+AssertionError: ("Creating a ModelSerializer without either the 'fields' attribute or the 'exclude' attribute has been deprecated since 3.3.0, and is now disallowed. Add an explicit fields = '__all__' to the SubAreaSerializer serializer.",)
+ERROR 2018-06-24 18:41:10,054 basehttp 124 "GET /areas/130000/ HTTP/1.1" 500 19823
+INFO 2018-06-24 18:41:54,645 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-06-24 18:41:59,356 basehttp 124 "GET /areas/130000/ HTTP/1.1" 200 464
+INFO 2018-06-24 18:42:04,924 basehttp 124 "GET /areas/130300/ HTTP/1.1" 200 293
+ERROR 2018-06-24 18:58:39,866 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/views.py", line 49, in get
+    access_token = oauth_qq.get_access_token(code)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/utils.py", line 67, in get_access_token
+    return access_token[0]
+TypeError: 'NoneType' object is not subscriptable
+ERROR 2018-06-24 18:58:40,016 basehttp 124 "GET /oauth/qq/user/?code=1318BC4FC7AAFEF268E001EBC060B350 HTTP/1.1" 500 17744
+ERROR 2018-06-24 19:04:27,964 exception 135 Internal Server Error: /oauth/qq/user/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/views.py", line 49, in get
+    access_token = oauth_qq.get_access_token(code)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/oauth/utils.py", line 67, in get_access_token
+    return access_token[0]
+TypeError: 'NoneType' object is not subscriptable
+ERROR 2018-06-24 19:04:27,990 basehttp 124 "GET /oauth/qq/user/?code=1318BC4FC7AAFEF268E001EBC060B350 HTTP/1.1" 500 17744
+INFO 2018-06-26 14:39:40,447 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-06-26 14:39:40,521 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-06-26 14:39:40,758 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-06-26 14:39:41,061 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-06-26 14:39:42,916 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-06-26 19:03:12,828 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-06-26 19:03:12,963 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-06-26 19:03:18,575 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-06-26 19:03:18,647 basehttp 124 "GET /admin/ HTTP/1.1" 200 7507
+INFO 2018-06-26 19:03:29,785 basehttp 124 "GET /admin/goods/goods/ HTTP/1.1" 200 3040
+INFO 2018-06-26 19:03:29,848 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-26 19:03:32,403 basehttp 124 "GET /admin/goods/goods/add/ HTTP/1.1" 200 15626
+INFO 2018-06-26 19:03:32,494 basehttp 124 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2018-06-26 19:03:32,505 basehttp 124 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+INFO 2018-06-26 19:03:32,533 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-26 19:03:33,031 basehttp 124 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2018-06-26 19:03:33,059 basehttp 124 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 200 18818
+INFO 2018-06-26 19:03:33,059 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2018-06-26 19:03:33,085 basehttp 124 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2018-06-26 19:03:33,125 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2018-06-26 19:03:33,125 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2018-06-26 19:03:33,126 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2018-06-26 19:03:33,126 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2018-06-26 19:03:33,140 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2018-06-26 19:03:33,231 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png?t=95e5d83 HTTP/1.1" 200 40265
+INFO 2018-06-26 19:03:33,313 basehttp 124 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2018-06-26 19:04:02,563 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/image/dialogs/image.js?t=I3I8 HTTP/1.1" 200 21390
+INFO 2018-06-26 19:04:02,564 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/dialog.css?t=I3I8 HTTP/1.1" 200 13570
+INFO 2018-06-26 19:04:02,656 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/close.png HTTP/1.1" 200 1238
+INFO 2018-06-26 19:04:02,656 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/lock.png HTTP/1.1" 200 1062
+INFO 2018-06-26 19:04:02,656 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/refresh.png HTTP/1.1" 200 1623
+ERROR 2018-06-26 19:04:20,795 exception 135 Internal Server Error: /ckeditor/upload/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/contrib/auth/decorators.py", line 23, in _wrapped_view
+    return view_func(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/ckeditor_uploader/views.py", line 95, in post
+    if(str(saved_path).split('.')[1].lower() != 'gif'):
+IndexError: list index out of range
+ERROR 2018-06-26 19:04:20,864 basehttp 124 "POST /ckeditor/upload/ HTTP/1.1" 500 89850
+INFO 2018-06-26 19:08:30,062 basehttp 124 "POST /ckeditor/upload/ HTTP/1.1" 200 130
+INFO 2018-06-26 19:37:28,644 basehttp 124 "GET /admin/logout/ HTTP/1.1" 200 1011
+INFO 2018-06-26 19:37:50,288 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-06-26 19:37:50,333 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-06-26 19:38:04,521 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-06-26 19:38:04,589 basehttp 124 "GET /admin/ HTTP/1.1" 200 7507
+WARNING 2018-06-28 14:51:44,003 base 152 Not Found: /xadmin/
+WARNING 2018-06-28 14:51:44,007 basehttp 124 "GET /xadmin/ HTTP/1.1" 404 7010
+INFO 2018-06-28 14:51:46,970 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-06-28 14:51:47,072 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-06-28 14:51:47,109 basehttp 124 "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO 2018-06-28 14:51:47,110 basehttp 124 "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+INFO 2018-06-28 14:51:47,143 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-06-28 14:51:47,174 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-06-28 14:51:47,363 basehttp 124 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2018-06-28 14:51:47,477 basehttp 124 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+INFO 2018-06-28 14:51:47,515 basehttp 124 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+INFO 2018-06-28 14:51:52,187 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-06-28 14:51:52,306 basehttp 124 "GET /admin/ HTTP/1.1" 200 7507
+INFO 2018-06-28 14:51:52,341 basehttp 124 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2018-06-28 14:51:52,407 basehttp 124 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+INFO 2018-06-28 14:51:52,407 basehttp 124 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2018-06-28 14:51:52,407 basehttp 124 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2018-06-28 14:51:57,890 basehttp 124 "GET /admin/goods/skuimage/ HTTP/1.1" 200 15618
+INFO 2018-06-28 14:51:57,959 basehttp 124 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+INFO 2018-06-28 14:51:57,971 basehttp 124 "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+INFO 2018-06-28 14:51:57,979 basehttp 124 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+INFO 2018-06-28 14:51:57,980 basehttp 124 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+INFO 2018-06-28 14:51:57,985 basehttp 124 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+INFO 2018-06-28 14:51:58,016 basehttp 124 "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+INFO 2018-06-28 14:51:58,016 basehttp 124 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+INFO 2018-06-28 14:51:58,018 basehttp 124 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+INFO 2018-06-28 14:51:58,018 basehttp 124 "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+INFO 2018-06-28 14:51:58,047 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 14:51:58,131 basehttp 124 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2018-06-28 14:52:00,700 basehttp 124 "GET /admin/goods/skuimage/add/ HTTP/1.1" 200 6595
+INFO 2018-06-28 14:52:00,760 basehttp 124 "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+INFO 2018-06-28 14:52:00,778 basehttp 124 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+INFO 2018-06-28 14:52:00,779 basehttp 124 "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+INFO 2018-06-28 14:52:00,779 basehttp 124 "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+INFO 2018-06-28 14:52:00,808 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 14:59:45,957 basehttp 124 "GET /admin/goods/ HTTP/1.1" 200 5582
+INFO 2018-06-28 14:59:48,790 basehttp 124 "GET /admin/goods/skuspecification/ HTTP/1.1" 200 14835
+INFO 2018-06-28 14:59:48,897 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 14:59:50,605 basehttp 124 "GET /admin/goods/skuspecification/34/change/ HTTP/1.1" 200 11157
+INFO 2018-06-28 14:59:50,671 basehttp 124 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2018-06-28 14:59:50,678 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 15:00:06,592 basehttp 124 "GET /admin/goods/ HTTP/1.1" 200 5582
+INFO 2018-06-28 15:00:09,852 basehttp 124 "GET /admin/goods/goods/ HTTP/1.1" 200 4663
+INFO 2018-06-28 15:00:09,960 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 15:00:12,960 basehttp 124 "GET /admin/goods/goods/add/ HTTP/1.1" 200 84036
+INFO 2018-06-28 15:00:13,029 basehttp 124 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2018-06-28 15:00:13,040 basehttp 124 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+INFO 2018-06-28 15:00:13,065 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 15:00:13,629 basehttp 124 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2018-06-28 15:00:13,655 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2018-06-28 15:00:13,662 basehttp 124 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 200 18818
+INFO 2018-06-28 15:00:13,698 basehttp 124 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2018-06-28 15:00:13,727 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2018-06-28 15:00:13,729 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2018-06-28 15:00:13,730 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2018-06-28 15:00:13,731 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2018-06-28 15:00:13,744 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2018-06-28 15:00:13,805 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png?t=95e5d83 HTTP/1.1" 200 40265
+INFO 2018-06-28 15:00:13,865 basehttp 124 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2018-06-28 15:04:30,499 basehttp 124 "GET /admin/goods/goods/ HTTP/1.1" 200 4663
+INFO 2018-06-28 15:05:42,334 basehttp 124 "GET /admin/ HTTP/1.1" 200 7507
+INFO 2018-06-28 15:05:44,795 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-06-28 15:05:44,888 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 15:05:49,976 basehttp 124 "GET /admin/ HTTP/1.1" 200 7507
+INFO 2018-06-28 15:05:57,793 basehttp 124 "GET /admin/goods/goods/ HTTP/1.1" 200 4663
+INFO 2018-06-28 15:05:57,875 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 15:06:00,341 basehttp 124 "GET /admin/goods/goods/3/change/ HTTP/1.1" 200 87291
+INFO 2018-06-28 15:06:00,406 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 16:07:30,945 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-06-28 16:07:31,060 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-06-28 16:54:26,239 basehttp 124 "GET /admin/ HTTP/1.1" 200 7507
+INFO 2018-06-28 16:54:30,881 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-06-28 16:54:30,971 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 16:54:38,774 basehttp 124 "GET /admin/goods/sku/2/change/ HTTP/1.1" 200 34184
+INFO 2018-06-28 16:54:38,869 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:16:58,449 basehttp 124 "GET /admin/goods/ HTTP/1.1" 200 5582
+INFO 2018-06-28 17:17:02,525 basehttp 124 "GET /admin/goods/skuimage/ HTTP/1.1" 200 15618
+INFO 2018-06-28 17:17:02,579 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:17:15,599 basehttp 124 "GET /admin/goods/skuimage/add/ HTTP/1.1" 200 6595
+INFO 2018-06-28 17:17:15,662 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:24:33,829 basehttp 124 "GET /admin/ HTTP/1.1" 200 7507
+INFO 2018-06-28 17:24:35,873 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-06-28 17:24:35,978 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:24:38,237 basehttp 124 "GET /admin/goods/sku/14/change/ HTTP/1.1" 200 34191
+INFO 2018-06-28 17:24:38,338 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:25:38,980 basehttp 124 "GET /admin/goods/ HTTP/1.1" 200 5582
+INFO 2018-06-28 17:25:42,396 basehttp 124 "GET /admin/goods/skuimage/ HTTP/1.1" 200 15618
+INFO 2018-06-28 17:25:42,463 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:25:46,595 basehttp 124 "GET /admin/goods/skuimage/add/ HTTP/1.1" 200 6595
+INFO 2018-06-28 17:25:46,678 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:49:54,484 basehttp 124 "GET /admin/ HTTP/1.1" 200 7507
+INFO 2018-06-28 17:49:57,451 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-06-28 17:49:57,560 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:50:01,405 basehttp 124 "GET /admin/goods/sku/11/change/ HTTP/1.1" 200 34191
+INFO 2018-06-28 17:50:01,504 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:50:11,947 basehttp 124 "POST /admin/goods/sku/11/change/ HTTP/1.1" 302 0
+INFO 2018-06-28 17:50:12,126 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8821
+INFO 2018-06-28 17:50:12,259 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:50:12,325 basehttp 124 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2018-06-28 17:52:14,116 basehttp 124 "GET /admin/goods/sku/11/change/ HTTP/1.1" 200 34191
+INFO 2018-06-28 17:52:14,224 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 17:52:16,412 basehttp 124 "POST /admin/goods/sku/11/change/ HTTP/1.1" 302 0
+INFO 2018-06-28 17:52:16,665 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8821
+INFO 2018-06-28 17:52:16,745 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-28 18:15:12,109 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-06-28 18:15:12,172 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-06-28 18:15:12,416 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-06-28 18:15:12,569 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-06-28 19:05:37,167 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-06-28 19:05:37,361 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-06-28 19:05:37,506 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-06-28 19:05:37,673 base 152 Not Found: /browse_histories/
+WARNING 2018-06-28 19:05:37,683 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 7041
+INFO 2018-06-28 19:08:06,287 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+WARNING 2018-06-28 19:08:06,626 base 152 Not Found: /browse_histories/
+WARNING 2018-06-28 19:08:06,627 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 7041
+INFO 2018-06-28 19:08:55,655 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+WARNING 2018-06-28 19:08:56,070 base 152 Not Found: /browse_histories/
+WARNING 2018-06-28 19:08:56,071 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 7041
+INFO 2018-06-28 19:10:17,091 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-06-28 19:10:21,096 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-06-28 19:10:21,128 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+ERROR 2018-06-28 19:10:21,500 exception 135 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/users/views.py", line 217, in get
+    return Response(serializer.data)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 765, in data
+    ret = super(ListSerializer, self).data
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 683, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 683, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 510, in to_representation
+    fields = self._readable_fields
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 376, in _readable_fields
+    field for field in self.fields.values()
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 1045, in get_fields
+    source, info, model, depth
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 1190, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 1302, in build_unknown_field
+    (field_name, model_class.__name__)
+django.core.exceptions.ImproperlyConfigured: Field name `comment` is not valid for model `SKU`.
+ERROR 2018-06-28 19:10:21,568 basehttp 124 "GET /browse_histories/ HTTP/1.1" 500 20663
+INFO 2018-06-28 19:10:50,572 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+ERROR 2018-06-28 19:10:51,240 exception 135 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/users/views.py", line 217, in get
+    return Response(serializer.data)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 765, in data
+    ret = super(ListSerializer, self).data
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 262, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 683, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 683, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 510, in to_representation
+    fields = self._readable_fields
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 376, in _readable_fields
+    field for field in self.fields.values()
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 363, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 1045, in get_fields
+    source, info, model, depth
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 1190, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/serializers.py", line 1302, in build_unknown_field
+    (field_name, model_class.__name__)
+django.core.exceptions.ImproperlyConfigured: Field name `comment` is not valid for model `SKU`.
+ERROR 2018-06-28 19:10:51,319 basehttp 124 "GET /browse_histories/ HTTP/1.1" 500 20663
+INFO 2018-06-28 19:11:44,346 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-06-28 19:11:44,723 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 673
+INFO 2018-06-28 19:12:21,156 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-06-28 19:12:24,229 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-06-28 19:12:24,590 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 899
+INFO 2018-06-28 19:31:21,620 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-06-28 19:31:21,703 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-06-28 19:31:22,840 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-06-28 19:31:23,774 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-06-29 15:00:31,337 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+WARNING 2018-06-29 15:00:31,385 basehttp 124 "GET /user/ HTTP/1.1" 401 38
+INFO 2018-06-29 15:00:37,593 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-06-29 15:00:37,659 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-06-29 15:00:37,895 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-06-29 15:00:37,932 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-06-29 15:00:38,026 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1098
+WARNING 2018-06-29 15:09:52,675 base 152 Not Found: /categories/115/skus/
+WARNING 2018-06-29 15:09:52,675 basehttp 124 "GET /categories/115/skus/?ordering=price&page=1&page_size=5 HTTP/1.1" 404 7257
+INFO 2018-06-29 15:10:33,793 basehttp 124 "GET /categories/115/skus/?ordering=price&page=1&page_size=5 HTTP/1.1" 200 11331
+INFO 2018-06-29 15:12:04,833 basehttp 124 "GET /categories/115/skus/?ordering=price&page=2&page_size=5 HTTP/1.1" 200 11565
+INFO 2018-06-29 15:12:19,057 basehttp 124 "GET /categories/115/skus/?ordering=price&page=3&page_size=5 HTTP/1.1" 200 10761
+WARNING 2018-06-29 15:12:27,281 base 152 Not Found: /categories/115/skus/
+WARNING 2018-06-29 15:12:27,283 basehttp 124 "GET /categories/115/skus/?ordering=price&page=4&page_size=5 HTTP/1.1" 404 5512
+INFO 2018-06-29 15:13:18,493 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-06-29 15:13:18,933 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-06-29 15:14:38,834 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-06-29 15:14:38,850 base 152 Not Found: /categories/115/
+WARNING 2018-06-29 15:14:38,872 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-06-29 15:14:38,872 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 7416
+WARNING 2018-06-29 15:14:38,873 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 7392
+INFO 2018-06-29 15:14:38,902 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+WARNING 2018-06-29 15:14:38,920 base 152 Not Found: /cart/
+WARNING 2018-06-29 15:14:38,952 basehttp 124 "GET /cart/ HTTP/1.1" 404 7362
+INFO 2018-06-29 15:18:09,803 basehttp 124 "GET /categories/115/skus/?page=2&page_size=5&ordering=-create_time HTTP/1.1" 200 1369
+INFO 2018-06-29 15:19:04,708 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-06-29 15:19:05,841 basehttp 124 "GET /categories/115/skus/?page=2&page_size=5&ordering=-create_time HTTP/1.1" 200 1369
+INFO 2018-06-29 15:19:06,673 basehttp 124 "GET /categories/115/skus/?page=3&page_size=5&ordering=-create_time HTTP/1.1" 200 1033
+WARNING 2018-06-29 15:19:16,729 base 152 Not Found: /categories/115/
+WARNING 2018-06-29 15:19:16,763 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 7392
+WARNING 2018-06-29 15:19:16,764 base 152 Not Found: /cart/
+WARNING 2018-06-29 15:19:16,780 basehttp 124 "GET /cart/ HTTP/1.1" 404 7362
+WARNING 2018-06-29 15:19:16,813 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-06-29 15:19:16,816 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 7416
+INFO 2018-06-29 15:19:16,846 basehttp 124 "GET /categories/115/skus/?page=1&page_size=2&ordering=-create_time HTTP/1.1" 200 612
+INFO 2018-06-29 15:19:21,544 basehttp 124 "GET /categories/115/skus/?page=2&page_size=2&ordering=-create_time HTTP/1.1" 200 692
+INFO 2018-06-29 15:19:23,609 basehttp 124 "GET /categories/115/skus/?page=3&page_size=2&ordering=-create_time HTTP/1.1" 200 699
+INFO 2018-06-29 15:19:27,412 basehttp 124 "GET /categories/115/skus/?page=4&page_size=2&ordering=-create_time HTTP/1.1" 200 698
+WARNING 2018-06-29 15:19:49,665 base 152 Not Found: /categories/115/
+WARNING 2018-06-29 15:19:49,676 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 7392
+WARNING 2018-06-29 15:19:49,679 base 152 Not Found: /cart/
+WARNING 2018-06-29 15:19:49,682 basehttp 124 "GET /cart/ HTTP/1.1" 404 7362
+WARNING 2018-06-29 15:19:49,699 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-06-29 15:19:49,700 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 7416
+INFO 2018-06-29 15:19:49,717 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-06-29 16:26:25,971 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-06-29 16:57:22,466 basehttp 124 "GET /skus/search/?text=%E5%8D%8E HTTP/1.1" 200 8282
+INFO 2018-06-29 16:59:21,660 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=2 HTTP/1.1" 200 8528
+INFO 2018-06-29 16:59:25,408 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=2 HTTP/1.1" 200 8528
+INFO 2018-06-29 16:59:32,268 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=3 HTTP/1.1" 200 8549
+INFO 2018-06-29 17:02:32,660 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=1&page_size=6 HTTP/1.1" 200 2602
+INFO 2018-06-29 17:02:37,983 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=2&page_size=6 HTTP/1.1" 200 1791
+INFO 2018-06-29 17:02:39,058 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=1&page_size=6 HTTP/1.1" 200 2602
+INFO 2018-06-29 17:02:40,801 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=2&page_size=6 HTTP/1.1" 200 1791
+INFO 2018-06-29 17:05:35,243 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-06-29 17:05:35,449 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 17:06:52,453 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 17:13:13,224 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 17:14:10,528 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 17:53:49,011 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-06-29 17:53:49,192 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 19:24:33,528 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-06-29 19:24:33,687 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-06-29 19:24:33,777 basehttp 124 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:33,777 basehttp 124 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:33,960 basehttp 124 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:34,315 basehttp 124 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:34,323 basehttp 124 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:39,278 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-06-29 19:24:39,357 basehttp 124 "GET /admin/ HTTP/1.1" 200 8278
+INFO 2018-06-29 19:24:39,373 basehttp 124 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:39,425 basehttp 124 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:39,426 basehttp 124 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:39,438 basehttp 124 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,660 basehttp 124 "GET /admin/goods/goods/ HTTP/1.1" 200 4663
+INFO 2018-06-29 19:24:41,750 basehttp 124 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,765 basehttp 124 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,768 basehttp 124 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,775 basehttp 124 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,776 basehttp 124 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,778 basehttp 124 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,779 basehttp 124 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,787 basehttp 124 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,787 basehttp 124 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:41,853 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-29 19:24:41,909 basehttp 124 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:46,745 basehttp 124 "GET /admin/goods/goods/3/change/ HTTP/1.1" 200 87291
+INFO 2018-06-29 19:24:46,779 basehttp 124 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:46,795 basehttp 124 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:46,800 basehttp 124 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:46,803 basehttp 124 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:46,804 basehttp 124 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:46,808 basehttp 124 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:46,839 basehttp 124 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:46,849 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-29 19:24:47,322 basehttp 124 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,347 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,348 basehttp 124 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,364 basehttp 124 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,397 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,403 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,409 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,415 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,428 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,484 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png?t=95e5d83 HTTP/1.1" 304 0
+INFO 2018-06-29 19:24:47,535 basehttp 124 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 304 0
+INFO 2018-06-29 19:27:00,308 basehttp 124 "POST /admin/goods/goods/3/change/ HTTP/1.1" 302 0
+INFO 2018-06-29 19:27:00,450 basehttp 124 "GET /admin/goods/goods/ HTTP/1.1" 200 4843
+INFO 2018-06-29 19:27:00,670 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-29 19:27:00,708 basehttp 124 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2018-06-29 19:29:04,556 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-06-29 19:29:04,594 base 152 Not Found: /categories/115/
+WARNING 2018-06-29 19:29:04,623 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-06-29 19:29:04,624 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8629
+WARNING 2018-06-29 19:29:04,627 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8605
+WARNING 2018-06-29 19:29:04,665 base 152 Not Found: /cart/
+WARNING 2018-06-29 19:29:04,665 basehttp 124 "GET /cart/ HTTP/1.1" 404 8575
+INFO 2018-06-29 19:29:04,701 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-06-29 19:35:16,396 basehttp 124 "GET /admin/logout/ HTTP/1.1" 200 1011
+WARNING 2018-06-29 19:46:11,152 base 152 Not Found: /xadmin/
+WARNING 2018-06-29 19:46:11,153 basehttp 124 "GET /xadmin/ HTTP/1.1" 404 8581
+INFO 2018-06-29 19:46:16,039 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-06-29 19:46:16,089 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-06-29 19:46:16,691 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-06-29 19:46:16,734 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-06-29 19:46:25,330 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-06-29 19:46:25,392 basehttp 124 "GET /admin/ HTTP/1.1" 200 8580
+INFO 2018-06-29 19:46:33,416 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-06-29 19:46:33,496 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-29 19:46:40,319 basehttp 124 "GET /admin/goods/sku/16/change/ HTTP/1.1" 200 34195
+INFO 2018-06-29 19:46:40,398 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-29 19:47:58,267 basehttp 124 "POST /admin/goods/sku/16/change/ HTTP/1.1" 302 0
+INFO 2018-06-29 19:47:58,409 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8821
+INFO 2018-06-29 19:47:58,561 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-06-29 19:53:35,261 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-06-29 19:53:35,316 base 152 Not Found: /categories/115/
+WARNING 2018-06-29 19:53:35,320 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-06-29 19:53:35,338 base 152 Not Found: /cart/
+WARNING 2018-06-29 19:53:35,342 basehttp 124 "GET /cart/ HTTP/1.1" 404 8575
+WARNING 2018-06-29 19:53:35,343 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8629
+WARNING 2018-06-29 19:53:35,344 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8605
+INFO 2018-06-29 19:53:35,366 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-06-29 19:53:37,009 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-06-29 19:53:37,210 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+WARNING 2018-06-29 20:26:06,054 base 152 Not Found: /categories/115/
+WARNING 2018-06-29 20:26:06,074 base 152 Not Found: /categories/115/hotskus/
+INFO 2018-06-29 20:26:06,074 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-06-29 20:26:06,075 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8605
+WARNING 2018-06-29 20:26:06,076 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8629
+WARNING 2018-06-29 20:26:06,114 base 152 Not Found: /cart/
+WARNING 2018-06-29 20:26:06,116 basehttp 124 "GET /cart/ HTTP/1.1" 404 8575
+INFO 2018-06-29 20:26:06,130 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-06-29 20:26:07,970 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-06-29 20:26:08,199 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 20:35:00,647 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 20:35:02,790 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 20:43:57,154 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-06-29 20:43:57,294 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-06-29 20:44:02,869 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-07-01 14:23:59,188 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=1&page_size=6 HTTP/1.1" 200 2602
+INFO 2018-07-01 14:24:05,816 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=1&page_size=6 HTTP/1.1" 200 2602
+INFO 2018-07-01 14:24:10,790 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=1&page_size=6 HTTP/1.1" 200 2602
+INFO 2018-07-01 14:41:22,773 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-07-01 14:41:22,792 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-01 14:41:22,795 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8629
+WARNING 2018-07-01 14:41:22,805 base 152 Not Found: /categories/115/
+WARNING 2018-07-01 14:41:22,812 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8605
+WARNING 2018-07-01 14:41:22,851 base 152 Not Found: /cart/
+WARNING 2018-07-01 14:41:22,862 basehttp 124 "GET /cart/ HTTP/1.1" 404 8575
+INFO 2018-07-01 14:41:22,959 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+WARNING 2018-07-01 14:45:22,504 base 152 Not Found: /cart/
+WARNING 2018-07-01 14:45:22,505 basehttp 124 "POST /cart/ HTTP/1.1" 404 8576
+WARNING 2018-07-01 14:45:55,718 base 152 Not Found: /cart/
+WARNING 2018-07-01 14:45:55,721 basehttp 124 "POST /cart/ HTTP/1.1" 404 8576
+ERROR 2018-07-01 14:47:19,223 exception 135 Internal Server Error: /cart/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/carts/views.py", line 25, in post
+    serializer.is_valid(raise_excption=True)
+TypeError: is_valid() got an unexpected keyword argument 'raise_excption'
+ERROR 2018-07-01 14:47:19,335 basehttp 124 "POST /cart/ HTTP/1.1" 500 19062
+ERROR 2018-07-01 14:47:29,262 exception 135 Internal Server Error: /cart/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/carts/views.py", line 25, in post
+    serializer.is_valid(raise_excption=True)
+TypeError: is_valid() got an unexpected keyword argument 'raise_excption'
+ERROR 2018-07-01 14:47:29,294 basehttp 124 "POST /cart/ HTTP/1.1" 500 19062
+INFO 2018-07-01 14:48:05,712 basehttp 124 "POST /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 14:48:45,229 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-07-01 14:48:45,303 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+WARNING 2018-07-01 14:48:49,627 base 152 Not Found: /categories/115/
+WARNING 2018-07-01 14:48:49,630 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8759
+WARNING 2018-07-01 14:48:49,638 basehttp 124 "GET /cart/ HTTP/1.1" 405 45
+WARNING 2018-07-01 14:48:49,669 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-01 14:48:49,670 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8783
+INFO 2018-07-01 14:48:49,718 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-07-01 14:48:50,956 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-07-01 14:48:51,209 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-07-01 14:48:59,525 basehttp 124 "POST /cart/ HTTP/1.1" 200 39
+WARNING 2018-07-01 14:50:41,685 base 152 Not Found: /categories/115/
+WARNING 2018-07-01 14:50:41,690 basehttp 124 "GET /cart/ HTTP/1.1" 405 45
+WARNING 2018-07-01 14:50:41,714 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-01 14:50:41,715 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8783
+WARNING 2018-07-01 14:50:41,717 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8759
+INFO 2018-07-01 14:50:41,732 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-07-01 14:50:45,272 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+WARNING 2018-07-01 14:50:50,194 basehttp 124 "POST /cart/ HTTP/1.1" 400 43
+INFO 2018-07-01 14:50:55,963 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-07-01 14:50:57,730 basehttp 124 "POST /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 15:24:53,928 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-01 15:24:53,997 basehttp 124 "GET /cart/ HTTP/1.1" 200 501
+WARNING 2018-07-01 15:26:01,609 base 152 Not Found: /categories/157/
+WARNING 2018-07-01 15:26:01,615 basehttp 124 "GET /categories/157/ HTTP/1.1" 404 8759
+WARNING 2018-07-01 15:26:01,627 base 152 Not Found: /categories/157/hotskus/
+WARNING 2018-07-01 15:26:01,631 basehttp 124 "GET /categories/157/hotskus/ HTTP/1.1" 404 8783
+INFO 2018-07-01 15:26:01,695 basehttp 124 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 452
+INFO 2018-07-01 15:26:01,699 basehttp 124 "GET /cart/ HTTP/1.1" 200 501
+INFO 2018-07-01 15:26:03,017 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-07-01 15:26:03,184 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-07-01 15:26:04,492 basehttp 124 "POST /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 15:26:07,264 basehttp 124 "GET /cart/ HTTP/1.1" 200 713
+INFO 2018-07-01 15:26:14,976 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+WARNING 2018-07-01 15:26:23,256 base 152 Not Found: /categories/115/
+WARNING 2018-07-01 15:26:23,282 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-01 15:26:23,283 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8759
+WARNING 2018-07-01 15:26:23,287 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8783
+INFO 2018-07-01 15:26:23,313 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-01 15:26:23,314 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-07-01 15:26:25,139 basehttp 124 "GET /categories/115/skus/?page=3&page_size=5&ordering=-create_time HTTP/1.1" 200 1033
+INFO 2018-07-01 15:26:30,177 basehttp 124 "POST /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 15:26:33,051 basehttp 124 "GET /cart/ HTTP/1.1" 200 485
+INFO 2018-07-01 16:05:37,770 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-01 16:05:38,221 basehttp 124 "GET /cart/ HTTP/1.1" 200 485
+INFO 2018-07-01 16:05:56,561 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:07:40,128 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:08:03,025 basehttp 124 "GET /cart/ HTTP/1.1" 200 486
+INFO 2018-07-01 16:08:07,540 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:08:11,472 basehttp 124 "GET /cart/ HTTP/1.1" 200 486
+INFO 2018-07-01 16:08:16,323 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:08:17,894 basehttp 124 "GET /cart/ HTTP/1.1" 200 486
+INFO 2018-07-01 16:08:23,372 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:08:24,944 basehttp 124 "GET /cart/ HTTP/1.1" 200 485
+INFO 2018-07-01 16:20:16,816 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-01 16:20:16,833 basehttp 124 "GET /cart/ HTTP/1.1" 200 485
+INFO 2018-07-01 16:20:20,575 basehttp 124 "GET /cart/ HTTP/1.1" 200 485
+INFO 2018-07-01 16:20:24,401 basehttp 124 "DELETE /cart/ HTTP/1.1" 204 0
+INFO 2018-07-01 16:20:26,329 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-01 16:35:49,074 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-07-01 16:35:49,125 base 152 Not Found: /categories/157/
+WARNING 2018-07-01 16:35:49,126 basehttp 124 "GET /categories/157/ HTTP/1.1" 404 8759
+WARNING 2018-07-01 16:35:49,146 base 152 Not Found: /categories/157/hotskus/
+WARNING 2018-07-01 16:35:49,154 basehttp 124 "GET /categories/157/hotskus/ HTTP/1.1" 404 8783
+INFO 2018-07-01 16:35:49,179 basehttp 124 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 452
+INFO 2018-07-01 16:35:49,207 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-01 16:35:52,625 basehttp 124 "POST /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:35:55,533 basehttp 124 "GET /cart/ HTTP/1.1" 200 463
+INFO 2018-07-01 16:36:00,463 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:36:06,837 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:36:06,838 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:36:10,209 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-07-01 16:36:12,721 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:36:12,721 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:36:15,317 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:36:15,321 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-07-01 16:36:31,857 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:37:33,669 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:37:33,672 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:37:34,750 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:37:34,750 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-07-01 16:37:47,927 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:37:47,930 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:37:52,955 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:37:52,955 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-07-01 16:38:21,133 basehttp 124 "PUT /cart/ HTTP/1.1" 200 38
+INFO 2018-07-01 16:38:21,134 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:38:23,225 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-01 16:38:23,226 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-07-01 16:53:25,721 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-01 16:53:25,856 basehttp 124 "GET /cart/ HTTP/1.1" 200 464
+INFO 2018-07-01 16:53:37,104 basehttp 124 "GET /cart/ HTTP/1.1" 200 464
+INFO 2018-07-01 16:53:41,282 basehttp 124 "OPTIONS /cart/selection/ HTTP/1.1" 200 0
+INFO 2018-07-01 16:53:41,289 basehttp 124 "PUT /cart/selection/ HTTP/1.1" 200 16
+INFO 2018-07-01 16:53:43,659 basehttp 124 "GET /cart/ HTTP/1.1" 200 463
+INFO 2018-07-01 16:53:48,746 basehttp 124 "PUT /cart/selection/ HTTP/1.1" 200 16
+INFO 2018-07-01 16:53:50,408 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+INFO 2018-07-01 17:01:36,638 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+WARNING 2018-07-01 17:33:49,343 base 152 Not Found: /categories/115/
+WARNING 2018-07-01 17:33:49,348 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8923
+INFO 2018-07-01 17:33:49,359 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-07-01 17:33:49,378 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-01 17:33:49,381 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8947
+INFO 2018-07-01 17:33:49,444 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-07-01 17:33:49,463 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+INFO 2018-07-01 18:22:47,383 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-01 18:22:47,463 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+INFO 2018-07-01 18:23:21,062 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+INFO 2018-07-01 18:24:34,470 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+INFO 2018-07-01 18:25:13,251 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-07-01 18:25:13,378 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-07-01 18:25:20,761 basehttp 124 "GET /cart/ HTTP/1.1" 200 713
+INFO 2018-07-01 18:25:37,893 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+INFO 2018-07-01 18:27:33,372 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-07-01 18:31:56,766 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-07-01 18:31:56,881 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-07-01 18:31:59,396 basehttp 124 "GET /cart/ HTTP/1.1" 200 715
+INFO 2018-07-01 18:32:17,978 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-01 18:49:33,385 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=1&page_size=6 HTTP/1.1" 200 2602
+INFO 2018-07-01 18:49:39,944 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page=1&page_size=6 HTTP/1.1" 200 2602
+INFO 2018-07-01 18:50:44,346 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-07-01 18:50:44,440 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-07-01 18:50:44,460 basehttp 124 "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO 2018-07-01 18:50:44,460 basehttp 124 "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+INFO 2018-07-01 18:50:48,412 basehttp 124 "GET /skus/search/?text=%E5%8D%8E HTTP/1.1" 200 8282
+INFO 2018-07-01 18:50:48,541 basehttp 124 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2018-07-01 18:50:48,552 basehttp 124 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2018-07-01 18:50:48,562 basehttp 124 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2018-07-01 18:50:48,562 basehttp 124 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1735
+INFO 2018-07-01 18:50:48,563 basehttp 124 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37045
+INFO 2018-07-01 18:50:48,563 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121200
+INFO 2018-07-01 18:50:48,564 basehttp 124 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2018-07-01 18:50:48,565 basehttp 124 "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+INFO 2018-07-01 18:50:48,576 basehttp 124 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2018-07-01 18:50:48,576 basehttp 124 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1262
+INFO 2018-07-01 18:50:48,732 basehttp 124 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2018-07-01 18:50:49,567 base 152 Not Found: /favicon.ico
+WARNING 2018-07-01 18:50:49,568 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 8911
+INFO 2018-07-01 18:51:47,134 basehttp 124 "GET /skus/search/?text=%E5%8D%8E&page_size=5 HTTP/1.1" 200 10188
+INFO 2018-07-02 14:49:45,974 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-07-02 14:49:46,031 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-02 14:49:46,045 base 152 Not Found: /categories/115/
+WARNING 2018-07-02 14:49:46,046 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8947
+WARNING 2018-07-02 14:49:46,046 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8923
+INFO 2018-07-02 14:49:46,126 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-07-02 14:49:46,166 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-02 14:49:47,240 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-07-02 14:49:47,267 basehttp 124 "POST /browse_histories/ HTTP/1.1" 401 38
+INFO 2018-07-02 15:11:40,605 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 15:11:40,957 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-02 15:54:11,208 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 15:54:11,230 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+WARNING 2018-07-02 15:54:15,494 base 152 Not Found: /categories/115/
+WARNING 2018-07-02 15:54:15,505 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 8923
+WARNING 2018-07-02 15:54:15,555 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-02 15:54:15,557 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 8947
+INFO 2018-07-02 15:54:15,592 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-02 15:54:15,633 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-07-02 15:54:16,912 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+WARNING 2018-07-02 15:54:16,946 basehttp 124 "POST /browse_histories/ HTTP/1.1" 401 38
+INFO 2018-07-02 15:54:18,145 basehttp 124 "POST /cart/ HTTP/1.1" 200 39
+INFO 2018-07-02 15:54:23,349 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-02 15:54:54,268 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-02 15:54:54,843 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-02 15:55:08,528 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 15:55:08,612 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-02 15:59:11,421 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-02 15:59:11,423 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+WARNING 2018-07-02 15:59:11,444 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 401 38
+WARNING 2018-07-02 15:59:11,445 basehttp 124 "GET /addresses/ HTTP/1.1" 401 38
+INFO 2018-07-02 15:59:30,718 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+WARNING 2018-07-02 15:59:30,831 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2018-07-02 15:59:35,112 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-07-02 15:59:35,467 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-07-02 15:59:35,497 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-07-02 15:59:37,583 basehttp 124 "GET /cart/ HTTP/1.1" 200 463
+INFO 2018-07-02 15:59:39,474 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-07-02 15:59:39,475 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 458
+INFO 2018-07-02 16:00:25,661 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 16:00:25,798 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-02 16:00:41,132 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-07-02 16:00:41,252 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-07-02 16:00:43,914 basehttp 124 "GET /cart/ HTTP/1.1" 200 463
+INFO 2018-07-02 16:00:46,284 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-02 16:00:50,136 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-07-02 16:00:50,166 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-07-02 16:01:04,061 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-07-02 16:01:04,170 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-07-02 16:01:11,858 basehttp 124 "GET /areas/120000/ HTTP/1.1" 200 74
+INFO 2018-07-02 16:01:13,657 basehttp 124 "GET /areas/110000/ HTTP/1.1" 200 74
+INFO 2018-07-02 16:01:15,247 basehttp 124 "GET /areas/110100/ HTTP/1.1" 200 575
+INFO 2018-07-02 16:01:37,940 basehttp 124 "POST /addresses/ HTTP/1.1" 201 241
+INFO 2018-07-02 16:01:40,035 basehttp 124 "OPTIONS /addresses/1/status/ HTTP/1.1" 200 0
+INFO 2018-07-02 16:01:40,065 basehttp 124 "PUT /addresses/1/status/ HTTP/1.1" 200 16
+INFO 2018-07-02 16:01:44,415 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-07-02 16:01:44,417 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-02 16:01:44,542 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-07-02 16:01:44,561 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 16:36:47,174 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 16:36:47,611 basehttp 124 "GET /cart/ HTTP/1.1" 200 464
+INFO 2018-07-02 16:36:56,039 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-02 16:37:22,450 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-07-02 16:37:22,561 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-07-02 16:37:22,836 basehttp 124 "GET /cart/ HTTP/1.1" 200 464
+INFO 2018-07-02 17:01:50,944 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:01:50,946 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:01:51,061 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 17:01:51,078 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-07-02 17:01:53,721 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:01:55,902 basehttp 124 "PUT /cart/ HTTP/1.1" 200 40
+INFO 2018-07-02 17:01:56,649 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+INFO 2018-07-02 17:01:58,648 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 29
+INFO 2018-07-02 17:01:58,655 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 17:16:50,117 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:16:50,238 basehttp 124 "GET /cart/ HTTP/1.1" 200 465
+INFO 2018-07-02 17:16:52,133 basehttp 124 "OPTIONS /cart/selection/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:16:52,172 basehttp 124 "PUT /cart/selection/ HTTP/1.1" 200 16
+INFO 2018-07-02 17:16:53,935 basehttp 124 "GET /cart/ HTTP/1.1" 200 463
+INFO 2018-07-02 17:16:55,133 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:16:55,134 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:16:55,260 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 458
+INFO 2018-07-02 17:16:55,266 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 17:59:07,302 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:59:07,309 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:59:07,410 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 17:59:07,559 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 458
+INFO 2018-07-02 17:59:10,421 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 458
+INFO 2018-07-02 17:59:10,423 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 17:59:19,674 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-07-02 17:59:19,873 basehttp 124 "POST /orders/ HTTP/1.1" 201 53
+INFO 2018-07-02 18:01:48,698 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:01:48,797 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+WARNING 2018-07-02 18:01:55,495 base 152 Not Found: /categories/157/
+WARNING 2018-07-02 18:01:55,532 basehttp 124 "GET /categories/157/ HTTP/1.1" 404 9246
+WARNING 2018-07-02 18:01:55,542 base 152 Not Found: /categories/157/hotskus/
+WARNING 2018-07-02 18:01:55,548 basehttp 124 "GET /categories/157/hotskus/ HTTP/1.1" 404 9270
+INFO 2018-07-02 18:01:55,588 basehttp 124 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 452
+INFO 2018-07-02 18:01:55,589 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-02 18:01:56,965 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:01:57,112 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-07-02 18:02:01,713 basehttp 124 "POST /cart/ HTTP/1.1" 200 38
+INFO 2018-07-02 18:02:05,749 basehttp 124 "GET /cart/ HTTP/1.1" 200 213
+INFO 2018-07-02 18:03:31,250 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:03:31,422 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 209
+INFO 2018-07-02 18:03:36,927 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:03:37,071 basehttp 124 "GET /user/ HTTP/1.1" 200 84
+INFO 2018-07-02 18:03:37,137 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:03:37,231 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 200
+INFO 2018-07-02 18:03:39,965 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:03:40,105 basehttp 124 "GET /areas/ HTTP/1.1" 200 1204
+INFO 2018-07-02 18:03:40,162 basehttp 124 "GET /addresses/ HTTP/1.1" 200 65
+INFO 2018-07-02 18:04:00,422 basehttp 124 "GET /areas/110000/ HTTP/1.1" 200 74
+INFO 2018-07-02 18:04:01,995 basehttp 124 "GET /areas/110100/ HTTP/1.1" 200 575
+INFO 2018-07-02 18:04:17,817 basehttp 124 "POST /addresses/ HTTP/1.1" 201 241
+INFO 2018-07-02 18:04:19,778 basehttp 124 "OPTIONS /addresses/2/status/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:04:19,809 basehttp 124 "PUT /addresses/2/status/ HTTP/1.1" 200 16
+WARNING 2018-07-02 18:04:29,936 base 152 Not Found: /categories/157/
+WARNING 2018-07-02 18:04:29,944 base 152 Not Found: /categories/157/hotskus/
+WARNING 2018-07-02 18:04:29,946 basehttp 124 "GET /categories/157/ HTTP/1.1" 404 9246
+INFO 2018-07-02 18:04:29,948 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2018-07-02 18:04:29,949 basehttp 124 "GET /categories/157/hotskus/ HTTP/1.1" 404 9270
+INFO 2018-07-02 18:04:30,084 basehttp 124 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 452
+INFO 2018-07-02 18:04:30,130 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-02 18:04:32,433 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-07-02 18:04:34,010 basehttp 124 "POST /cart/ HTTP/1.1" 200 38
+INFO 2018-07-02 18:04:37,358 basehttp 124 "GET /cart/ HTTP/1.1" 200 213
+INFO 2018-07-02 18:04:40,646 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:04:41,027 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 224
+INFO 2018-07-02 18:04:41,199 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 18:04:48,846 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 224
+INFO 2018-07-02 18:04:48,855 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 18:05:16,851 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:05:22,018 basehttp 124 "POST /orders/ HTTP/1.1" 201 53
+INFO 2018-07-02 18:05:23,267 basehttp 124 "POST /orders/ HTTP/1.1" 201 53
+INFO 2018-07-02 18:34:53,946 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:34:54,335 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-02 18:34:58,145 basehttp 124 "OPTIONS /user/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:34:58,370 basehttp 124 "GET /user/ HTTP/1.1" 200 101
+INFO 2018-07-02 18:34:58,415 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:34:58,476 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 911
+INFO 2018-07-02 18:35:00,038 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-07-02 18:35:01,763 basehttp 124 "POST /cart/ HTTP/1.1" 200 38
+INFO 2018-07-02 18:35:04,877 basehttp 124 "GET /cart/ HTTP/1.1" 200 213
+INFO 2018-07-02 18:35:06,352 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:35:06,353 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:35:06,506 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 224
+INFO 2018-07-02 18:35:06,523 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 18:35:15,055 basehttp 124 "GET /user/ HTTP/1.1" 200 84
+INFO 2018-07-02 18:35:15,265 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 200
+INFO 2018-07-02 18:35:18,273 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+INFO 2018-07-02 18:35:20,123 basehttp 124 "POST /cart/ HTTP/1.1" 200 38
+INFO 2018-07-02 18:35:23,077 basehttp 124 "GET /cart/ HTTP/1.1" 200 213
+INFO 2018-07-02 18:35:25,990 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 224
+INFO 2018-07-02 18:35:26,051 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 18:35:41,862 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:35:45,593 basehttp 124 "POST /orders/ HTTP/1.1" 201 53
+WARNING 2018-07-02 18:35:47,029 basehttp 124 "POST /orders/ HTTP/1.1" 400 66
+INFO 2018-07-02 18:46:53,457 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:46:53,458 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-02 18:46:53,762 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 224
+INFO 2018-07-02 18:46:53,764 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 18:47:09,471 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 224
+INFO 2018-07-02 18:47:09,483 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-02 18:47:20,894 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 224
+INFO 2018-07-02 18:47:20,905 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-04 16:28:24,730 basehttp 124 "OPTIONS /authorizations/ HTTP/1.1" 200 0
+WARNING 2018-07-04 16:28:24,879 basehttp 124 "POST /authorizations/ HTTP/1.1" 400 67
+INFO 2018-07-04 16:28:27,856 basehttp 124 "POST /authorizations/ HTTP/1.1" 200 232
+INFO 2018-07-04 16:28:30,678 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-04 16:28:30,734 basehttp 124 "GET /cart/ HTTP/1.1" 200 214
+WARNING 2018-07-04 16:28:34,234 basehttp 124 "PUT /cart/ HTTP/1.1" 400 43
+WARNING 2018-07-04 16:28:38,224 basehttp 124 "PUT /cart/ HTTP/1.1" 400 43
+INFO 2018-07-04 16:28:42,208 basehttp 124 "DELETE /cart/ HTTP/1.1" 204 0
+WARNING 2018-07-04 16:28:46,276 base 152 Not Found: /categories/115/
+WARNING 2018-07-04 16:28:46,307 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 9434
+WARNING 2018-07-04 16:28:46,324 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-04 16:28:46,328 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 9458
+INFO 2018-07-04 16:28:46,377 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-07-04 16:28:46,389 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-04 16:28:47,707 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-07-04 16:28:47,881 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-07-04 16:28:49,076 basehttp 124 "POST /cart/ HTTP/1.1" 200 39
+INFO 2018-07-04 16:28:52,195 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-04 16:28:55,184 basehttp 124 "OPTIONS /addresses/ HTTP/1.1" 200 0
+INFO 2018-07-04 16:28:55,184 basehttp 124 "OPTIONS /orders/settlement/ HTTP/1.1" 200 0
+INFO 2018-07-04 16:28:55,313 basehttp 124 "GET /orders/settlement/ HTTP/1.1" 200 262
+INFO 2018-07-04 16:28:55,335 basehttp 124 "GET /addresses/ HTTP/1.1" 200 303
+INFO 2018-07-04 16:29:00,755 basehttp 124 "OPTIONS /orders/ HTTP/1.1" 200 0
+INFO 2018-07-04 16:29:05,809 basehttp 124 "POST /orders/ HTTP/1.1" 201 53
+INFO 2018-07-04 16:29:26,288 basehttp 124 "OPTIONS /orders/20180704082900000000001/payment/ HTTP/1.1" 200 0
+ERROR 2018-07-04 16:29:26,302 exception 135 Internal Server Error: /orders/20180704082900000000001/payment/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/payment/views.py", line 31, in get
+    paymethd=OrderInfo.PAY_METHODS_ENUM['ALIPAY']
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1154, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1034, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1352, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'paymethd' into field. Choices are: address, address_id, create_time, freight, order_id, pay_method, payment, skus, status, total_amount, total_count, update_time, user, user_id
+ERROR 2018-07-04 16:29:26,473 basehttp 124 "GET /orders/20180704082900000000001/payment/ HTTP/1.1" 500 21636
+ERROR 2018-07-04 16:29:28,832 exception 135 Internal Server Error: /orders/20180704082900000000001/payment/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/payment/views.py", line 31, in get
+    paymethd=OrderInfo.PAY_METHODS_ENUM['ALIPAY']
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1154, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1034, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1352, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'paymethd' into field. Choices are: address, address_id, create_time, freight, order_id, pay_method, payment, skus, status, total_amount, total_count, update_time, user, user_id
+ERROR 2018-07-04 16:29:28,872 basehttp 124 "GET /orders/20180704082900000000001/payment/ HTTP/1.1" 500 21636
+ERROR 2018-07-04 16:30:07,806 exception 135 Internal Server Error: /orders/20180704082900000000001/payment/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/payment/views.py", line 31, in get
+    paymethod=OrderInfo.PAY_METHODS_ENUM['ALIPAY']
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1154, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1034, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1352, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'paymethod' into field. Choices are: address, address_id, create_time, freight, order_id, pay_method, payment, skus, status, total_amount, total_count, update_time, user, user_id
+ERROR 2018-07-04 16:30:07,897 basehttp 124 "GET /orders/20180704082900000000001/payment/ HTTP/1.1" 500 21639
+ERROR 2018-07-04 16:30:13,707 exception 135 Internal Server Error: /orders/20180704082900000000001/payment/
+Traceback (most recent call last):
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 483, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 443, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/rest_framework/views.py", line 480, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/delron/Desktop/Python_29/meiduo_29/meiduo_mall/meiduo_mall/apps/payment/views.py", line 31, in get
+    paymethod=OrderInfo.PAY_METHODS_ENUM['ALIPAY']
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1154, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1034, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "/Users/delron/.virtualenv/meiduo_29/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1352, in names_to_path
+    "Choices are: %s" % (name, ", ".join(available)))
+django.core.exceptions.FieldError: Cannot resolve keyword 'paymethod' into field. Choices are: address, address_id, create_time, freight, order_id, pay_method, payment, skus, status, total_amount, total_count, update_time, user, user_id
+ERROR 2018-07-04 16:30:13,764 basehttp 124 "GET /orders/20180704082900000000001/payment/ HTTP/1.1" 500 21639
+INFO 2018-07-04 16:30:49,178 basehttp 124 "GET /orders/20180704082900000000001/payment/ HTTP/1.1" 200 885
+INFO 2018-07-04 16:34:29,928 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-04 16:34:30,010 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+WARNING 2018-07-04 16:34:42,763 base 152 Not Found: /categories/157/
+WARNING 2018-07-04 16:34:42,765 basehttp 124 "GET /categories/157/ HTTP/1.1" 404 9434
+WARNING 2018-07-04 16:34:42,759 base 152 Not Found: /categories/157/hotskus/
+WARNING 2018-07-04 16:34:42,767 basehttp 124 "GET /categories/157/hotskus/ HTTP/1.1" 404 9458
+INFO 2018-07-04 16:34:42,801 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-04 16:34:42,839 basehttp 124 "GET /categories/157/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 452
+INFO 2018-07-04 16:34:43,736 basehttp 124 "OPTIONS /browse_histories/ HTTP/1.1" 200 0
+INFO 2018-07-04 16:34:43,862 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 12
+WARNING 2018-07-04 16:34:45,297 basehttp 124 "POST /cart/ HTTP/1.1" 400 43
+WARNING 2018-07-04 16:35:19,336 base 152 Not Found: /categories/115/
+WARNING 2018-07-04 16:35:19,356 basehttp 124 "GET /categories/115/ HTTP/1.1" 404 9434
+WARNING 2018-07-04 16:35:19,380 base 152 Not Found: /categories/115/hotskus/
+WARNING 2018-07-04 16:35:19,382 basehttp 124 "GET /categories/115/hotskus/ HTTP/1.1" 404 9458
+INFO 2018-07-04 16:35:19,424 basehttp 124 "GET /cart/ HTTP/1.1" 200 2
+INFO 2018-07-04 16:35:19,426 basehttp 124 "GET /categories/115/skus/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1321
+INFO 2018-07-04 16:35:20,876 basehttp 124 "POST /browse_histories/ HTTP/1.1" 201 13
+INFO 2018-07-04 16:35:22,084 basehttp 124 "POST /cart/ HTTP/1.1" 200 39
+INFO 2018-07-04 16:35:26,995 basehttp 124 "POST /cart/ HTTP/1.1" 200 39
+WARNING 2018-07-04 16:35:33,132 basehttp 124 "POST /cart/ HTTP/1.1" 400 43
+INFO 2018-07-04 16:35:52,492 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-04 16:35:56,067 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-04 16:35:58,865 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-04 16:35:59,203 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+WARNING 2018-07-04 16:35:59,484 basehttp 124 "PUT /cart/ HTTP/1.1" 400 43
+INFO 2018-07-04 16:36:02,205 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-04 16:36:03,025 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-04 16:36:16,034 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-04 16:36:16,125 basehttp 124 "PUT /cart/ HTTP/1.1" 200 39
+INFO 2018-07-04 17:05:26,227 basehttp 124 "OPTIONS /cart/ HTTP/1.1" 200 0
+INFO 2018-07-04 17:05:26,493 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-04 17:05:45,630 basehttp 124 "GET /cart/ HTTP/1.1" 200 251
+INFO 2018-07-04 17:06:06,348 basehttp 124 "OPTIONS /payment/status/?charset=utf-8&out_trade_no=20180704082900000000001&method=alipay.trade.page.pay.return&total_amount=3788.00&sign=UNn3nCckqp4E3MJAonwiywZBtP5Wiia6eJVUta0iimZeLdUuMhH%2FdyRmPGgaQ6xHn0u5KCQbeof4dsXyh%2FdG42cLho9LYCcRqwa6qv3BbEx1J3Y9Qxp6ye%2BTmQq9UbW3%2FoXdAjVJ0gChPQNjm%2BCMI0XbLPT9ARyclb3oKMHrNB7kixMma8OIQbztylSbIwnQilQlxhIWzDqhxCXRgAXjRir7748YpkzW%2FlpkTyuxU1mKI4VwvxV8Of4PQqZcLU%2BbXo2SI%2Bm0Vy%2FgMae4hZIRf%2BbTI1C8lw203HpOMDDeZiUea3GpF9WzuZkTPc4Ryv%2F8K3F6e2IvInpeQt48nqNC%2BQ%3D%3D&trade_no=2018070421001004630200569950&auth_app_id=2016081600258081&version=1.0&app_id=2016081600258081&sign_type=RSA2&seller_id=2088102171419163&timestamp=2018-07-04+16%3A31%3A49 HTTP/1.1" 200 0
+INFO 2018-07-04 17:06:06,774 basehttp 124 "PUT /payment/status/?charset=utf-8&out_trade_no=20180704082900000000001&method=alipay.trade.page.pay.return&total_amount=3788.00&sign=UNn3nCckqp4E3MJAonwiywZBtP5Wiia6eJVUta0iimZeLdUuMhH%2FdyRmPGgaQ6xHn0u5KCQbeof4dsXyh%2FdG42cLho9LYCcRqwa6qv3BbEx1J3Y9Qxp6ye%2BTmQq9UbW3%2FoXdAjVJ0gChPQNjm%2BCMI0XbLPT9ARyclb3oKMHrNB7kixMma8OIQbztylSbIwnQilQlxhIWzDqhxCXRgAXjRir7748YpkzW%2FlpkTyuxU1mKI4VwvxV8Of4PQqZcLU%2BbXo2SI%2Bm0Vy%2FgMae4hZIRf%2BbTI1C8lw203HpOMDDeZiUea3GpF9WzuZkTPc4Ryv%2F8K3F6e2IvInpeQt48nqNC%2BQ%3D%3D&trade_no=2018070421001004630200569950&auth_app_id=2016081600258081&version=1.0&app_id=2016081600258081&sign_type=RSA2&seller_id=2088102171419163&timestamp=2018-07-04+16%3A31%3A49 HTTP/1.1" 200 43
+INFO 2018-07-04 17:09:10,373 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-07-04 17:09:10,472 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-07-04 17:09:10,500 basehttp 124 "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+INFO 2018-07-04 17:09:10,500 basehttp 124 "GET /static/admin/css/base.css HTTP/1.1" 200 16066
+INFO 2018-07-04 17:09:11,208 basehttp 124 "GET /admin/ HTTP/1.1" 302 0
+INFO 2018-07-04 17:09:11,323 basehttp 124 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1652
+INFO 2018-07-04 17:09:11,672 basehttp 124 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2018-07-04 17:09:11,763 basehttp 124 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+INFO 2018-07-04 17:09:11,784 basehttp 124 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+INFO 2018-07-04 17:09:16,933 basehttp 124 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2018-07-04 17:09:17,045 basehttp 124 "GET /admin/ HTTP/1.1" 200 8948
+INFO 2018-07-04 17:09:17,075 basehttp 124 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2018-07-04 17:09:17,144 basehttp 124 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2018-07-04 17:09:17,145 basehttp 124 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+INFO 2018-07-04 17:09:17,145 basehttp 124 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2018-07-04 17:09:36,085 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-07-04 17:09:36,150 basehttp 124 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+INFO 2018-07-04 17:09:36,166 basehttp 124 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+INFO 2018-07-04 17:09:36,168 basehttp 124 "GET /static/admin/js/core.js HTTP/1.1" 200 7976
+INFO 2018-07-04 17:09:36,187 basehttp 124 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6591
+INFO 2018-07-04 17:09:36,192 basehttp 124 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 258648
+INFO 2018-07-04 17:09:36,192 basehttp 124 "GET /static/admin/js/actions.js HTTP/1.1" 200 6501
+INFO 2018-07-04 17:09:36,197 basehttp 124 "GET /static/admin/js/urlify.js HTTP/1.1" 200 8186
+INFO 2018-07-04 17:09:36,198 basehttp 124 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1538
+INFO 2018-07-04 17:09:36,210 basehttp 124 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+INFO 2018-07-04 17:09:36,236 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-07-04 17:09:36,340 basehttp 124 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2018-07-04 17:10:35,642 basehttp 124 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 34189
+INFO 2018-07-04 17:10:35,717 basehttp 124 "GET /static/admin/css/forms.css HTTP/1.1" 200 8173
+INFO 2018-07-04 17:10:35,748 basehttp 124 "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+INFO 2018-07-04 17:10:35,771 basehttp 124 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+INFO 2018-07-04 17:10:35,774 basehttp 124 "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+INFO 2018-07-04 17:10:35,775 basehttp 124 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2018-07-04 17:10:35,804 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-07-04 17:10:37,874 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-07-04 17:10:42,529 basehttp 124 "GET /admin/goods/sku/15/change/ HTTP/1.1" 200 34189
+INFO 2018-07-04 17:10:42,627 basehttp 124 "GET /admin/jsi18n/ HTTP/1.1" 200 7682
+INFO 2018-07-04 17:10:45,169 basehttp 124 "GET /admin/goods/sku/ HTTP/1.1" 200 8575
+INFO 2018-07-04 17:13:49,004 basehttp 124 "GET /admin/logout/ HTTP/1.1" 200 1011
+INFO 2018-07-04 17:14:28,364 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 4163
+INFO 2018-07-04 17:14:28,434 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2018-07-04 17:14:28,434 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2018-07-04 17:14:28,435 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8324
+INFO 2018-07-04 17:14:28,442 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2018-07-04 17:14:28,445 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2018-07-04 17:14:28,455 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2018-07-04 17:14:28,468 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2018-07-04 17:14:28,531 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2018-07-04 17:14:28,537 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2018-07-04 17:14:28,544 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4170
+INFO 2018-07-04 17:14:28,550 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2018-07-04 17:14:28,554 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2018-07-04 17:14:28,561 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2018-07-04 17:14:28,563 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2018-07-04 17:14:28,568 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2018-07-04 17:14:28,635 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2018-07-04 17:14:34,804 basehttp 124 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2018-07-04 17:14:34,885 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 9391
+INFO 2018-07-04 17:14:34,920 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2018-07-04 17:14:34,930 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2018-07-04 17:14:34,938 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2018-07-04 17:14:34,999 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:17:19,256 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 13641
+INFO 2018-07-04 17:17:19,396 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,402 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,405 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,405 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,406 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,409 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,412 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,414 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,422 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,423 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,430 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,440 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,448 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,451 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,460 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,465 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,467 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:17:19,508 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:17:19,526 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,480 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 13648
+INFO 2018-07-04 17:18:08,620 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,631 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,638 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,639 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,642 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,642 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,648 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,648 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,674 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,682 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,697 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,698 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,699 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,700 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,701 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,707 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,708 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:08,734 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:18:08,768 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:18:18,835 basehttp 124 "GET /xadmin/goods/goodscategory/ HTTP/1.1" 200 150912
+INFO 2018-07-04 17:18:18,892 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2018-07-04 17:18:18,926 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:18:18,961 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2018-07-04 17:18:18,976 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2018-07-04 17:18:18,984 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2018-07-04 17:18:18,986 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2018-07-04 17:18:18,987 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2018-07-04 17:18:18,988 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2018-07-04 17:20:37,109 basehttp 124 "GET /xadmin/goods/goodscategory/ HTTP/1.1" 200 154788
+INFO 2018-07-04 17:20:37,213 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,220 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,222 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,230 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,230 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,237 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,238 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,252 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,259 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,263 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2018-07-04 17:20:37,272 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,276 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,276 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2018-07-04 17:20:37,278 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,280 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,284 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,296 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,297 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,298 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,313 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,316 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,318 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:37,328 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:20:42,011 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:50,024 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-07-04 17:20:50,042 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:55,632 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 17533
+INFO 2018-07-04 17:20:55,700 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:55,716 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:55,717 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:20:55,769 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:21:19,207 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-07-04 17:21:23,724 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-07-04 17:21:27,356 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-07-04 17:21:32,664 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-07-04 17:21:35,907 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-07-04 17:21:35,923 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-theme.css HTTP/1.1" 200 19791
+INFO 2018-07-04 17:21:40,159 basehttp 124 "POST /xadmin/settings/user HTTP/1.1" 200 0
+INFO 2018-07-04 17:21:51,530 basehttp 124 "GET /xadmin/goods/goods/ HTTP/1.1" 200 33095
+INFO 2018-07-04 17:21:51,572 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,601 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,602 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,603 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,603 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,606 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,611 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,652 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,656 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,657 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,657 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,658 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,687 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,688 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,691 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,695 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,701 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,715 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,718 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,719 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,720 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,725 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,726 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:51,753 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:21:51,811 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:56,511 basehttp 124 "GET /xadmin/goods/goods/3/update/ HTTP/1.1" 200 95171
+INFO 2018-07-04 17:21:56,592 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2018-07-04 17:21:56,593 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2018-07-04 17:21:56,593 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2018-07-04 17:21:56,653 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:21:56,662 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2018-07-04 17:21:56,681 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2018-07-04 17:21:56,682 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 200 694
+INFO 2018-07-04 17:21:56,684 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2018-07-04 17:21:56,688 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 200 7546
+INFO 2018-07-04 17:21:56,691 basehttp 124 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2018-07-04 17:21:56,698 basehttp 124 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+INFO 2018-07-04 17:21:56,717 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:21:57,432 basehttp 124 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2018-07-04 17:21:57,531 basehttp 124 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 200 18818
+INFO 2018-07-04 17:21:57,534 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2018-07-04 17:21:57,568 basehttp 124 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2018-07-04 17:21:57,590 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2018-07-04 17:21:57,595 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2018-07-04 17:21:57,596 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2018-07-04 17:21:57,597 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2018-07-04 17:21:57,606 basehttp 124 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2018-07-04 17:21:57,660 basehttp 124 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png?t=95e5d83 HTTP/1.1" 200 40265
+INFO 2018-07-04 17:21:57,722 basehttp 124 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2018-07-04 17:24:12,230 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 17533
+INFO 2018-07-04 17:24:12,365 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,367 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,388 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,388 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,392 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,401 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,403 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,409 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,416 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,420 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,421 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,423 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,430 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,435 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,436 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,437 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,454 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,457 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,462 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:12,496 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:24:12,511 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:19,919 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 72880
+INFO 2018-07-04 17:24:19,971 basehttp 124 "GET /static/xadmin/css/xadmin.widget.editable.css HTTP/1.1" 200 1099
+INFO 2018-07-04 17:24:19,978 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:19,987 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:19,994 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,003 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,030 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.editable.js HTTP/1.1" 200 6151
+INFO 2018-07-04 17:24:20,038 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,044 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,045 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,050 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,066 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,069 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,075 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,080 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,085 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,086 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,088 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:24:20,101 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:24:30,954 basehttp 124 "GET /xadmin/goods/sku/16/update/ HTTP/1.1" 200 46585
+INFO 2018-07-04 17:24:31,086 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:24:32,951 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 72880
+INFO 2018-07-04 17:24:36,230 basehttp 124 "GET /xadmin/goods/sku/16/patch/?fields=stock HTTP/1.1" 200 476
+INFO 2018-07-04 17:24:39,558 basehttp 124 "POST /xadmin/goods/sku/16/patch/ HTTP/1.1" 200 77
+INFO 2018-07-04 17:28:23,226 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 74054
+INFO 2018-07-04 17:28:23,288 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,297 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,299 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,308 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,309 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,312 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,315 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,324 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,328 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,348 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,350 basehttp 124 "GET /static/xadmin/css/xadmin.widget.editable.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,358 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,364 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,375 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,375 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,375 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,388 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,394 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,395 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,398 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,398 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,406 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,411 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,419 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,423 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,429 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,429 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.editable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,434 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,443 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,452 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,457 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,462 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,466 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:23,467 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:28:23,514 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:28:28,455 basehttp 124 "GET /xadmin/orders/orderinfo/ HTTP/1.1" 200 33773
+INFO 2018-07-04 17:28:28,541 basehttp 124 "GET /static/xadmin/vendor/flot/jquery.flot.js HTTP/1.1" 200 115930
+INFO 2018-07-04 17:28:28,568 basehttp 124 "GET /static/xadmin/vendor/flot/jquery.flot.time.js HTTP/1.1" 200 11679
+INFO 2018-07-04 17:28:28,569 basehttp 124 "GET /static/xadmin/vendor/flot/jquery.flot.pie.js HTTP/1.1" 200 23405
+INFO 2018-07-04 17:28:28,569 basehttp 124 "GET /static/xadmin/vendor/flot/jquery.flot.resize.js HTTP/1.1" 200 2504
+INFO 2018-07-04 17:28:28,572 basehttp 124 "GET /static/xadmin/vendor/flot/jquery.flot.aggregate.js HTTP/1.1" 200 4096
+INFO 2018-07-04 17:28:28,575 basehttp 124 "GET /static/xadmin/vendor/flot/jquery.flot.categories.js HTTP/1.1" 200 6033
+INFO 2018-07-04 17:28:28,579 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.charts.js HTTP/1.1" 200 2146
+INFO 2018-07-04 17:28:28,612 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:28:28,855 basehttp 124 "GET /xadmin/orders/orderinfo/chart/order_amount/? HTTP/1.1" 200 397
+INFO 2018-07-04 17:28:40,817 basehttp 124 "GET /xadmin/orders/orderinfo/chart/order_count/? HTTP/1.1" 200 350
+INFO 2018-07-04 17:31:42,179 basehttp 124 "GET /xadmin/orders/orderinfo/20180704082900000000001/update/ HTTP/1.1" 200 24948
+INFO 2018-07-04 17:31:42,276 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,278 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,285 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,288 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,291 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,302 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,305 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,311 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,313 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,323 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,335 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,348 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,350 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,350 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,354 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,369 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,372 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,377 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,382 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,384 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,390 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,394 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,395 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,401 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,406 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,409 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,410 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:31:42,429 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:31:42,470 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,323 basehttp 124 "GET /xadmin/goods/sku/ HTTP/1.1" 200 74054
+INFO 2018-07-04 17:46:19,376 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,417 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,425 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,426 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,427 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,444 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,445 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,447 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,461 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,474 basehttp 124 "GET /static/xadmin/css/xadmin.widget.editable.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,478 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,483 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,485 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,504 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,508 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,518 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,525 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,533 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,533 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,545 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,551 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,552 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,557 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,562 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,570 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,574 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:46:19,582 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,585 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.editable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,586 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,591 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,599 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,608 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,611 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,612 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:46:19,627 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:48:07,026 basehttp 124 "GET /xadmin/auth/permission/ HTTP/1.1" 200 93887
+INFO 2018-07-04 17:48:07,143 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:50:07,819 basehttp 124 "GET /xadmin/auth/group/ HTTP/1.1" 200 27914
+INFO 2018-07-04 17:50:07,843 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,847 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,852 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,868 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,879 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,886 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,899 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,913 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,921 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,930 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,934 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,938 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,944 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,946 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,950 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,953 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,956 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,965 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,966 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,968 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,972 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:07,978 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:08,104 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:50:08,137 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:11,259 basehttp 124 "GET /xadmin/auth/group/add/ HTTP/1.1" 200 27840
+INFO 2018-07-04 17:50:11,294 basehttp 124 "GET /static/xadmin/css/xadmin.widget.select-transfer.css HTTP/1.1" 200 2317
+INFO 2018-07-04 17:50:11,322 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:11,323 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:11,324 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select-transfer.js HTTP/1.1" 200 8214
+INFO 2018-07-04 17:50:11,374 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:50:56,591 basehttp 124 "POST /xadmin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2018-07-04 17:50:56,762 basehttp 124 "GET /xadmin/auth/group/ HTTP/1.1" 200 30640
+INFO 2018-07-04 17:50:56,815 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:50:56,853 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:51:11,200 basehttp 124 "GET /xadmin/users/user/ HTTP/1.1" 200 46544
+INFO 2018-07-04 17:51:11,326 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:51:14,112 basehttp 124 "GET /xadmin/users/user/1/update/ HTTP/1.1" 200 37478
+INFO 2018-07-04 17:51:14,255 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:51:14,259 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:51:14,259 basehttp 124 "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 10225
+INFO 2018-07-04 17:51:14,260 basehttp 124 "GET /static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.css HTTP/1.1" 200 3729
+INFO 2018-07-04 17:51:14,263 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:51:14,275 basehttp 124 "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 200 2979
+INFO 2018-07-04 17:51:14,277 basehttp 124 "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 32656
+INFO 2018-07-04 17:51:14,293 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:51:14,303 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:51:14,308 basehttp 124 "GET /static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.js HTTP/1.1" 200 21112
+INFO 2018-07-04 17:51:14,311 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:51:14,313 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:51:14,335 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:55:57,155 basehttp 124 "GET /xadmin/auth/group/ HTTP/1.1" 200 30346
+INFO 2018-07-04 17:55:57,224 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,233 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,244 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,246 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,252 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,256 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,262 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,262 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,273 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,277 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,284 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,287 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,293 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,296 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,300 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,322 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,325 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,332 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,338 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,338 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,343 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,344 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,352 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+INFO 2018-07-04 17:55:57,353 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2018-07-04 17:55:57,398 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2018-07-04 18:48:48,999 basehttp 124 "GET /xadmin/auth/group/ HTTP/1.1" 200 30378
+WARNING 2018-07-04 18:48:49,150 base 152 Not Found: /static/xadmin/vendor/bootstrap/css/bootstrap.css
+WARNING 2018-07-04 18:48:49,161 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-07-04 18:48:49,164 base 152 Not Found: /static/xadmin/css/themes/bootstrap-xadmin.css
+WARNING 2018-07-04 18:48:49,165 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 404 122
+WARNING 2018-07-04 18:48:49,166 base 152 Not Found: /static/xadmin/vendor/font-awesome/css/font-awesome.min.css
+WARNING 2018-07-04 18:48:49,168 base 152 Not Found: /static/xadmin/vendor/jquery/jquery.min.js
+WARNING 2018-07-04 18:48:49,175 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-07-04 18:48:49,176 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js HTTP/1.1" 404 126
+WARNING 2018-07-04 18:48:49,182 base 152 Not Found: /static/xadmin/css/xadmin.main.css
+WARNING 2018-07-04 18:48:49,183 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 404 119
+WARNING 2018-07-04 18:48:49,188 base 152 Not Found: /static/xadmin/css/xadmin.plugins.css
+WARNING 2018-07-04 18:48:49,188 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 404 132
+WARNING 2018-07-04 18:48:49,189 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.min.js HTTP/1.1" 404 115
+WARNING 2018-07-04 18:48:49,190 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js HTTP/1.1" 404 128
+WARNING 2018-07-04 18:48:49,205 base 152 Not Found: /static/xadmin/css/xadmin.responsive.css
+WARNING 2018-07-04 18:48:49,208 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 404 107
+WARNING 2018-07-04 18:48:49,216 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-07-04 18:48:49,220 base 152 Not Found: /static/xadmin/css/xadmin.form.css
+WARNING 2018-07-04 18:48:49,242 base 152 Not Found: /static/xadmin/js/xadmin.main.js
+WARNING 2018-07-04 18:48:49,243 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 404 110
+WARNING 2018-07-04 18:48:49,247 base 152 Not Found: /static/xadmin/js/xadmin.responsive.js
+WARNING 2018-07-04 18:48:49,253 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 404 113
+WARNING 2018-07-04 18:48:49,254 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 404 107
+WARNING 2018-07-04 18:48:49,254 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js HTTP/1.1" 404 127
+WARNING 2018-07-04 18:48:49,258 base 152 Not Found: /static/xadmin/js/xadmin.plugin.themes.js
+WARNING 2018-07-04 18:48:49,261 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 404 105
+WARNING 2018-07-04 18:48:49,264 base 152 Not Found: /static/xadmin/js/xadmin.plugin.details.js
+WARNING 2018-07-04 18:48:49,269 base 152 Not Found: /static/xadmin/js/xadmin.plugin.bookmark.js
+WARNING 2018-07-04 18:48:49,269 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 404 111
+WARNING 2018-07-04 18:48:49,273 base 152 Not Found: /static/xadmin/js/xadmin.plugin.filters.js
+WARNING 2018-07-04 18:48:49,277 base 152 Not Found: /static/xadmin/js/xadmin.plugin.actions.js
+WARNING 2018-07-04 18:48:49,277 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 404 114
+WARNING 2018-07-04 18:48:49,278 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 404 115
+WARNING 2018-07-04 18:48:49,279 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 404 116
+WARNING 2018-07-04 18:48:49,283 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 404 115
+WARNING 2018-07-04 18:48:49,283 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 404 115
+WARNING 2018-07-04 18:48:49,303 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-07-04 18:48:49,314 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+INFO 2018-07-04 18:48:49,327 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4828
+WARNING 2018-07-04 18:48:49,330 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-07-04 18:48:49,332 base 152 Not Found: /static/xadmin/js/xadmin.page.list.js
+WARNING 2018-07-04 18:48:49,336 base 152 Not Found: /static/xadmin/js/xadmin.page.form.js
+WARNING 2018-07-04 18:48:49,338 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js HTTP/1.1" 404 130
+WARNING 2018-07-04 18:48:49,341 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 404 124
+WARNING 2018-07-04 18:48:49,342 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js HTTP/1.1" 404 128
+WARNING 2018-07-04 18:48:49,342 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 404 110
+WARNING 2018-07-04 18:48:49,343 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 404 110
+WARNING 2018-07-04 18:48:49,431 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-07-04 18:48:49,432 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js HTTP/1.1" 404 126
+WARNING 2018-07-04 18:48:49,452 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-07-04 18:48:49,452 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js HTTP/1.1" 404 128
+WARNING 2018-07-04 18:48:49,479 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-07-04 18:48:49,481 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js HTTP/1.1" 404 127
+WARNING 2018-07-04 18:48:49,516 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-07-04 18:48:49,517 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js HTTP/1.1" 404 130
+WARNING 2018-07-04 18:48:49,529 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-07-04 18:48:49,530 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 404 124
+WARNING 2018-07-04 18:48:49,541 base 152 Not Found: /static/xadmin/js/xadmin.main.js
+WARNING 2018-07-04 18:48:49,542 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 404 105
+WARNING 2018-07-04 18:48:49,547 base 152 Not Found: /static/xadmin/js/xadmin.responsive.js
+WARNING 2018-07-04 18:48:49,548 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 404 111
+WARNING 2018-07-04 18:48:49,554 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-07-04 18:48:49,555 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js HTTP/1.1" 404 128
+WARNING 2018-07-04 18:48:49,572 base 152 Not Found: /static/xadmin/js/xadmin.plugin.themes.js
+WARNING 2018-07-04 18:48:49,574 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 404 114
+WARNING 2018-07-04 18:48:49,588 base 152 Not Found: /static/xadmin/js/xadmin.plugin.details.js
+WARNING 2018-07-04 18:48:49,589 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 404 115
+WARNING 2018-07-04 18:48:49,601 base 152 Not Found: /static/xadmin/js/xadmin.plugin.bookmark.js
+WARNING 2018-07-04 18:48:49,604 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 404 116
+WARNING 2018-07-04 18:48:49,614 base 152 Not Found: /static/xadmin/js/xadmin.plugin.filters.js
+WARNING 2018-07-04 18:48:49,615 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 404 115
+WARNING 2018-07-04 18:48:49,619 base 152 Not Found: /static/xadmin/js/xadmin.plugin.actions.js
+WARNING 2018-07-04 18:48:49,620 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 404 115
+WARNING 2018-07-04 18:48:49,625 base 152 Not Found: /static/xadmin/js/xadmin.page.list.js
+WARNING 2018-07-04 18:48:49,625 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 404 110
+WARNING 2018-07-04 18:48:49,630 base 152 Not Found: /static/xadmin/js/xadmin.page.form.js
+WARNING 2018-07-04 18:48:49,631 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 404 110
+INFO 2018-07-04 19:16:00,729 basehttp 124 "GET /image_codes/ed4c7522-4a4e-44c1-b988-d3052a6acd8d/ HTTP/1.1" 200 3259
+WARNING 2018-07-04 19:33:05,732 base 152 Not Found: /static/xadmin/vendor/bootstrap/css/bootstrap.css
+WARNING 2018-07-04 19:33:05,778 base 152 Not Found: /static/xadmin/vendor/font-awesome/css/font-awesome.min.css
+WARNING 2018-07-04 19:33:05,782 base 152 Not Found: /static/xadmin/css/xadmin.plugins.css
+WARNING 2018-07-04 19:33:05,786 base 152 Not Found: /static/xadmin/css/xadmin.page.dashboard.css
+WARNING 2018-07-04 19:33:05,801 base 152 Not Found: /static/xadmin/vendor/jquery/jquery.min.js
+WARNING 2018-07-04 19:33:05,806 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-07-04 19:33:05,837 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-07-04 19:33:05,874 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-07-04 19:33:05,893 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-07-04 19:33:05,897 base 152 Not Found: /static/xadmin/js/xadmin.main.js
+WARNING 2018-07-04 19:33:05,913 base 152 Not Found: /static/xadmin/js/xadmin.responsive.js
+WARNING 2018-07-04 19:33:05,929 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-07-04 19:33:05,943 base 152 Not Found: /static/xadmin/js/xadmin.plugin.themes.js
+WARNING 2018-07-04 19:33:05,947 base 152 Not Found: /static/xadmin/js/xadmin.page.dashboard.js
+WARNING 2018-07-04 19:33:05,957 base 152 Not Found: /static/xadmin/js/xadmin.plugin.portal.js
+WARNING 2018-07-04 19:33:06,963 base 152 Not Found: /static/xadmin/css/themes/bootstrap-xadmin.css
+WARNING 2018-07-04 19:33:06,966 base 152 Not Found: /static/xadmin/css/xadmin.responsive.css
+WARNING 2018-07-04 19:33:06,967 base 152 Not Found: /static/xadmin/css/xadmin.main.css
+WARNING 2018-07-04 19:33:06,969 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-07-04 19:33:09,836 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-07-04 19:33:09,844 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-07-04 19:33:09,876 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-07-04 19:33:09,889 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-07-04 19:33:09,928 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-07-04 19:33:09,953 base 152 Not Found: /static/xadmin/js/xadmin.main.js
+WARNING 2018-07-04 19:33:09,965 base 152 Not Found: /static/xadmin/js/xadmin.responsive.js
+WARNING 2018-07-04 19:33:09,971 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-07-04 19:33:09,981 base 152 Not Found: /static/xadmin/js/xadmin.plugin.themes.js
+WARNING 2018-07-04 19:33:09,990 base 152 Not Found: /static/xadmin/js/xadmin.page.dashboard.js
+WARNING 2018-07-04 19:33:10,005 base 152 Not Found: /static/xadmin/js/xadmin.plugin.portal.js
+WARNING 2018-07-04 19:37:20,605 base 152 Not Found: /static/xadmin/vendor/bootstrap/css/bootstrap.css
+WARNING 2018-07-04 19:37:20,606 base 152 Not Found: /static/xadmin/css/xadmin.plugins.css
+WARNING 2018-07-04 19:37:20,606 base 152 Not Found: /static/xadmin/vendor/font-awesome/css/font-awesome.min.css
+WARNING 2018-07-04 19:37:20,607 base 152 Not Found: /static/xadmin/css/themes/bootstrap-xadmin.css
+WARNING 2018-07-04 19:37:20,617 base 152 Not Found: /static/xadmin/css/xadmin.responsive.css
+WARNING 2018-07-04 19:37:20,618 base 152 Not Found: /static/xadmin/css/xadmin.main.css
+WARNING 2018-07-04 19:37:20,673 base 152 Not Found: /static/xadmin/vendor/jquery/jquery.min.js
+WARNING 2018-07-04 19:37:20,674 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-07-04 19:37:20,676 base 152 Not Found: /static/xadmin/css/xadmin.page.dashboard.css
+WARNING 2018-07-04 19:37:20,678 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-07-04 19:37:20,682 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-07-04 19:37:20,698 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-07-04 19:37:20,698 base 152 Not Found: /static/xadmin/js/xadmin.main.js
+WARNING 2018-07-04 19:37:20,699 base 152 Not Found: /static/xadmin/js/xadmin.page.dashboard.js
+WARNING 2018-07-04 19:37:20,701 base 152 Not Found: /static/xadmin/js/xadmin.responsive.js
+WARNING 2018-07-04 19:37:20,702 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-07-04 19:37:20,732 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-07-04 19:37:20,734 base 152 Not Found: /static/xadmin/js/xadmin.plugin.themes.js
+WARNING 2018-07-04 19:37:20,738 base 152 Not Found: /static/xadmin/js/xadmin.plugin.portal.js
+WARNING 2018-07-04 19:37:20,924 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js
+WARNING 2018-07-04 19:37:20,953 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js
+WARNING 2018-07-04 19:37:20,968 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js
+WARNING 2018-07-04 19:37:20,979 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js
+WARNING 2018-07-04 19:37:20,994 base 152 Not Found: /static/xadmin/vendor/bootstrap/js/bootstrap.min.js
+WARNING 2018-07-04 19:37:21,015 base 152 Not Found: /static/xadmin/js/xadmin.main.js
+WARNING 2018-07-04 19:37:21,052 base 152 Not Found: /static/xadmin/js/xadmin.responsive.js
+WARNING 2018-07-04 19:37:21,073 base 152 Not Found: /static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js
+WARNING 2018-07-04 19:37:21,088 base 152 Not Found: /static/xadmin/js/xadmin.plugin.themes.js
+WARNING 2018-07-04 19:37:21,096 base 152 Not Found: /static/xadmin/js/xadmin.page.dashboard.js
+WARNING 2018-07-04 19:37:21,103 base 152 Not Found: /static/xadmin/js/xadmin.plugin.portal.js
